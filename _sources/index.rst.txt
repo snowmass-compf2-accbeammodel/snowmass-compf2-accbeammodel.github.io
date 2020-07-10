@@ -24,8 +24,7 @@ The work within this frontier is organized into **seven topical groups**:
 * CompF6: Quantum computing
 * CompF7: Reinterpretation and long-term preservation of data and code
 
-Each topical group has its own mailing list and slack channel.
-Details can be found at the link above for the Computational Frontier, where you will also find links to pages with details about each topical group.
+Each `topical group <https://snowmass21.org/computational/start>`_ has its own :ref:`mailing list and slack channel <community-contact>`, the interest group herein is part of **CompF2**.
 
 On **August 10-11, 2020**, we are pleased to invite the community to our virtual kick-off Computational Frontier meeting (`indico link <https://indico.fnal.gov/event/43829/>`_).
 At the meeting, each topical group will present its charge and plans for gathering input from the community.
