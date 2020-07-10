@@ -114,7 +114,7 @@ html_context = {
   'github_user': 'snowmass-compf2-accelerators',
   'github_repo': 'snowmass-compf2-accelerators.github.io',
   'github_version': 'latest',
-  "conf_py_path": '/docs/',
+  "conf_py_path": '/docs/source/',
   "source_suffix": source_suffix,
 }
 
