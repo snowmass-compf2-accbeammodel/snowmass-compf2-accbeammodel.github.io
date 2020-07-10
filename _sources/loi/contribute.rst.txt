@@ -16,9 +16,8 @@ However, a contributed paper is not required.
 For our interest group, we propose to use a simple template to simplify the process.
 They can be contributed in the following ways:
 
-* TODO: pull request example (rst)
 * TODO: pull request example (pdf)
-* TODO: per e-mail (tzzzz)
+* TODO: or just sent per e-mail to ...
 
 
 Tentative Plan
