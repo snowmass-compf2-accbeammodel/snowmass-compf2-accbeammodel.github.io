@@ -21,10 +21,33 @@ They can be contributed in the following ways:
 * TODO: per e-mail (tzzzz)
 
 
+Tentative Plan
+^^^^^^^^^^^^^^
+
+(Might be still too prescriptive?)
+
+* Encourage community building via co-authorship by as many authors as possible. One lead starts with an initial skeleton or draft, then augments and crystallizes writing with an increasing number of authors.
+* Organizational structure for LOIs/paper:
+
+  * 1 lead.
+  * 1st tier co-writers: a few people.
+  * 2nd tier co-authors:  more people.
+  * third tier co-authors: everyone.
+* Timeline:
+
+  * Until July 10: organize ourselves, agree on topics, LOIs, structure and timeline.
+  * July 10-August 21: one to two weeks per writing step (lead, 1st tier, 2nd tier, 3rd tier).
+  * August 22-31: wrap-up and submit.
+
+
 Templates
 ^^^^^^^^^
 
-We suggest to use the following template for LOIs...
+We suggest to use the following (tentative) template for LOIs...
+
+* Topic and status.
+* Current and future challenges.
+* Advances needed to meet challenges.
 
 .. note::
 
