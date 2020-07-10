@@ -3,7 +3,8 @@
 Accelerator & Beam Physics Modeling
 -----------------------------------
 
-This is the homepage of the *Accelerator & beam physics modeling* interest group in the topical group `Theoretical Calculations and Simulation (CompF2) <https://snowmass21.org/computational/simulations>`_ which is part of the `Computational Frontier (CompF) <https://snowmass21.org/computational/start>`_ in the `Snowmass 2021 <https://snowmass21.org>`_ process organized by the Division of Particles and Fields (DPF) of the American Physical Society.
+This is the homepage of the *Accelerator & beam physics modeling* interest group in the topical group `Theoretical Calculations and Simulation (CompF2) <https://snowmass21.org/computational/simulations>`_.
+CompF2 is part of the `Computational Frontier (CompF) <https://snowmass21.org/computational/start>`_ in the `Snowmass 2021 <https://snowmass21.org>`_ process organized by the Division of Particles and Fields (DPF) of the American Physical Society.
 
 Every half-decade or so the *US high energy physics community* engages in a **planning process** that looks ahead five to ten years to prioritize possible future directions and projects.
 There used to be a meeting lasting several weeks in Snowmass, Colorado for this exercise.
