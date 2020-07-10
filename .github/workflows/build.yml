@@ -23,7 +23,7 @@ jobs:
       run: |
         git clone https://github.com/snowmass-compf2-accbeammodel/snowmass-compf2-accbeammodel.github.io.git --branch master --single-branch master
         cp -r docs/build/html/*                          master/
-        cp -r docs/build/latex/SM2021_COMPF2_AccBeam.pdf master/_static/
+        cp -r docs/build/latex/SM2021_COMPF2_AccBeamModel.pdf master/_static/
         cd master
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
