@@ -21,10 +21,10 @@ jobs:
     - name: Commit Changes
       if: github.event_name == 'push' && github.ref == 'refs/heads/latest'
       run: |
-        git clone https://github.com/snowmass-compf2-accelerators/homepage.git --branch gh-pages --single-branch gh-pages
-        cp -r docs/build/html/*                          gh-pages/
-        cp -r docs/build/latex/SM2021_COMPF2_AccBeam.pdf gh-pages/_static/
-        cd gh-pages
+        git clone https://github.com/snowmass-compf2-accelerators/homepage.git --branch master --single-branch master
+        cp -r docs/build/html/*                          master/
+        cp -r docs/build/latex/SM2021_COMPF2_AccBeam.pdf master/_static/
+        cd master
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
@@ -35,6 +35,6 @@ jobs:
       if: github.event_name == 'push' && github.ref == 'refs/heads/latest'
       uses: ad-m/github-push-action@master
       with:
-        branch: gh-pages
-        directory: gh-pages
+        branch: master
+        directory: master
         github_token: ${{ secrets.GITHUB_TOKEN }}
