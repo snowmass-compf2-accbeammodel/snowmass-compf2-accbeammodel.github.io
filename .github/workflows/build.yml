@@ -21,7 +21,7 @@ jobs:
     - name: Commit Changes
       if: github.event_name == 'push' && github.ref == 'refs/heads/latest'
       run: |
-        git clone https://github.com/snowmass-compf2-accelerators/homepage.git --branch master --single-branch master
+        git clone https://github.com/snowmass-compf2-accbeammodel/snowmass-compf2-accbeammodel.github.io.git --branch master --single-branch master
         cp -r docs/build/html/*                          master/
         cp -r docs/build/latex/SM2021_COMPF2_AccBeam.pdf master/_static/
         cd master

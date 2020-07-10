@@ -61,7 +61,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'SM2021-COMPF2-AccBeam'
+project = u'SM2021-COMPF2-AccBeamModel'
 copyright = u'Under CC-BY 4.0, Snowmass 2021 COMPF2 Accelerator & Beam Physics Modeling interest group'
 author = u'Snowmass 2021 COMPF2 Accelerator & Beam Physics Modeling interest group'
 
@@ -111,8 +111,8 @@ todo_include_todos = False
 html_context = {
   # 'Edit on Github' link instead of 'View page source'
   'display_github': True,
-  'github_user': 'snowmass-compf2-accelerators',
-  'github_repo': 'snowmass-compf2-accelerators.github.io',
+  'github_user': 'snowmass-compf2-accbeammodel',
+  'github_repo': 'snowmass-compf2-accbeammodel.github.io',
   'github_version': 'latest',
   "conf_py_path": '/docs/source/',
   "source_suffix": source_suffix,
@@ -127,7 +127,7 @@ html_context = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-#htmlhelp_basename = 'SM2021-COMPF2-AccBeam'
+#htmlhelp_basename = 'SM2021-COMPF2-AccBeamModel'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -158,7 +158,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'SM2021_COMPF2_AccBeam.tex',
+    (master_doc, 'SM2021_COMPF2_AccBeamModel.tex',
      u'Accelerator \& Beam Physics Modeling in the Computational Frontier (CompF2: Theoretical Calculations and Simulation) in Snowmass 2021',
      u'Accelerator \& Beam Physics Modeling interest group', 'manual'),
 ]

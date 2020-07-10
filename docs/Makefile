@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = SM2021-COMPF2-AccBeam
+SPHINXPROJ    = SM2021-COMPF2-AccBeamModel
 SOURCEDIR     = source
 BUILDDIR      = build
 
