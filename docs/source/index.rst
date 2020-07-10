@@ -5,11 +5,10 @@ Accelerator & Beam Physics Modeling
 
 This is the homepage of the *Accelerator & beam physics modeling* interest group in the topical group `Theoretical Calculations and Simulation (CompF2) <https://snowmass21.org/computational/simulations>`_ which is part of the `Computational Frontier (CompF) <https://snowmass21.org/computational/start>`_ in the `Snowmass 2021 <https://snowmass21.org>`_ process organized by the Division of Particles and Fields (DPF) of the American Physical Society.
 
-Every half-decade or so the US high energy physics community engages in a planning process that looks ahead five to ten years to prioritize possible future directions and projects.
+Every half-decade or so the *US high energy physics community* engages in a **planning process** that looks ahead five to ten years to prioritize possible future directions and projects.
 There used to be a meeting lasting several weeks in Snowmass, Colorado for this exercise.
 Although we no longer have a long meeting there, the name Snowmass has stuck.
-The previous plan was called Snowmass 2013, and we are now working on Snowmass 2021, which will culminate with a large meeting July 11-20 in Seattle and a report later that Fall.
-Details can be found at https://snowmass21.org
+The previous plan was called Snowmass 2013, and we are now working on **Snowmass 2021**, which will culminate with a large meeting **July 11-20, 2021** in Seattle and a report later that Fall.
 
 The planning is organized by "Frontiers," and we are part of the `Computational Frontier (CompF) <https://snowmass21.org/computational/start>`_. 
 It is important that experiments and groups doing large scale computations be well represented in the Computational Frontier.
@@ -27,9 +26,7 @@ The work within this frontier is organized into **seven topical groups**:
 Each topical group has its own mailing list and slack channel.
 Details can be found at the link above for the Computational Frontier, where you will also find links to pages with details about each topical group.
 
-In **August 2020**, we are pleased to invite the community to our kick-off Computational Frontier meeting.
-The meeting will take place (virtually) on August 10 and 11.
-The indico site is here: https://indico.fnal.gov/event/43829/.
+On **August 10-11, 2020**, we are pleased to invite the community to our virtual kick-off Computational Frontier meeting (`indico link <https://indico.fnal.gov/event/43829/>`_).
 At the meeting, each topical group will present its charge and plans for gathering input from the community.
 We hope you will attend.
 
