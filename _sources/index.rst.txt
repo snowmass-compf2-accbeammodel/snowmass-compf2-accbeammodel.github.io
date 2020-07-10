@@ -35,7 +35,7 @@ Also note that although this planning exercise is organized for the US, high ene
 
 .. only:: html
 
-   `Download this whole homepage also as a PDF document here <_static/SM2021_COMPF2_AccBeam.pdf>`_.
+   `Download this whole homepage also as a PDF document here <_static/SM2021_COMPF2_AccBeamModel.pdf>`_.
 
 .. raw:: html
 
