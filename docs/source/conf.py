@@ -108,6 +108,16 @@ todo_include_todos = False
 #
 # html_theme_options = {}
 
+html_context = {
+  # 'Edit on Github' link instead of 'View page source'
+  'display_github': True,
+  'github_user': 'snowmass-compf2-accelerators',
+  'github_repo': 'snowmass-compf2-accelerators.github.io',
+  'github_version': 'latest',
+  "conf_py_path": '/docs/',
+  "source_suffix": source_suffix,
+}
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
