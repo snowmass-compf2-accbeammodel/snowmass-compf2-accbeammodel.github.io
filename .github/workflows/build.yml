@@ -1,0 +1,33 @@
+name: "Build Homepage"
+on: 
+- pull_request
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: ammaraskar/sphinx-action@master
+      with:
+        docs-folder: "docs/"
+        pre-build-command: "apt-get update -y && apt-get install -y $(cat ubuntu-package.list) && python3 -m pip install -r requirements.txt"
+        build-command: "make latexpdf; make html"
+
+    - name: Commit Changes
+      run: |
+        git clone https://github.com/snowmass-compf2-accelerators/homepage.git --branch gh-pages --single-branch gh-pages
+        cp -r docs/build/html/*                          gh-pages/
+        cp -r docs/build/latex/SM2021_COMPF2_AccBeam.pdf gh-pages/_static/
+        cd gh-pages
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update homepage" -a || true
+        # The above command will fail if no changes were present, so we ignore
+        # the return code.
+    - name: Publish changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: gh-pages
+        directory: gh-pages
+        github_token: ${{ secrets.GITHUB_TOKEN }}
