@@ -3,20 +3,21 @@
 Topics
 ======
 
-As interest group of the *Theoretical Calculations and Simulation* (CompF2) topical group in the *Computational Frontier* our topics of interest include:
+As interest group in the `Theoretical Calculations and Simulation (CompF2) <https://snowmass21.org/computational/simulations>`_ topical group in the `Computational Frontier <https://snowmass21.org/computational/start>`_ our topics of interest include:
 
-* Modeling of 
+* **Modeling of**
 
   * Colliders (leptons, hadrons, gamma, mix)
+
     * rings
     * Linacs
     * Entire machine complex
-
   * Advanced Concepts
+
     * plasma accelerators (LWFA, PWFA)
     * dielectric
-
   * Specific physics topics
+
     * beam-beam
     * Halo
     * Collisions
@@ -28,15 +29,14 @@ As interest group of the *Theoretical Calculations and Simulation* (CompF2) topi
     * Quantum limit in novel accelerator structures
     * X-ray simulation
     * ...
-
   * Components
+
     * RF cavities
     * Magnets
     * ...
-
   * ...
+* **Crosscutting topics**
 
-* Crosscutting topics
   * Commonalities in comp. needs
   * EVA (End-to-end Virtual Accelerator)
   * HPC / Exascale / programming
@@ -46,7 +46,6 @@ As interest group of the *Theoretical Calculations and Simulation* (CompF2) topi
     * computing hardware independent implementation e.g. Kokkos/RAJA/Alpaka/AMReX
     * Mixed precision: half (various), single and double
     * Tensor cores
-
   * Standardization of output data, input scripts (openPMD, ...)
   * Data management & data reduction
   * Online modeling
