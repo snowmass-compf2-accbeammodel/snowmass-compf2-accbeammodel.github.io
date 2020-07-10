@@ -8,7 +8,7 @@ Contributing
 ^^^^^^^^^^^^
 
 You can just edit the files inside ``docs/source/`` as needed and send updates as pull requests.
-(`Here is a quick introduction on how to work with GitHub <>`_.)
+(`Here is a quick introduction on how to work with GitHub <https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository>`_.)
 
 The easiest way to do this is by visiting the homepage itself under
 
