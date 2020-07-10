@@ -20,15 +20,17 @@ Mailing Lists
 Our interest group and community organizes in the following ways:
 
 * Snowmass e-mail server: ``listserv@fnal.gov`` (`help <https://listserv.fnal.gov/users.asp#subscribe%20to%20list>`_)
-* Snowmass e-mail list: ... (``SNOWMASS``)
+* Snowmass e-mail list: ``snowmass@fnal.gov`` (``SNOWMASS``)
 
-  * early career / snowmass young e-mail list: ... (``SNOWMASS-YOUNG``)
-* computational frontier e-mail list: ...
+  * snowmass early career (SEC) e-mail list: ``snowmass-young@fnal.gov`` (``SNOWMASS-YOUNG``)
+  * computational frontier (CompF) e-mail list: ... there is none yet? ...
 
-  * CompF early career point of contact: ``sec-compf@googlegroups.com``
-  * **CompF2 e-mail list:**  ``snowmass-compf02-theorycalcsim@fnal.gov`` (``SNOWMASS-COMPF02-THEORYCALCSIM``)
+    * CompF conveners: https://snowmass21.org/computational/start
 
-    * **interest group Accelerator & Beam Physics Modeling mailing list:** not yet set up, will reach out soon
+      * CompF early career point of contact: ``sec-compf@googlegroups.com``
+    * topical group **CompF2: Theoretical Calculations and Simulation** e-mail list:  ``snowmass-compf02-theorycalcsim@fnal.gov`` (``SNOWMASS-COMPF02-THEORYCALCSIM``)
+
+      * **interest group Accelerator & Beam Physics Modeling mailing list:** not yet set up, will reach out soon
 
 Please follow the instructions `outlined here <https://snowmass21.org/#join_slack_workspace_and_snowmass_email_list>`_ to join these mailing lists.
 
@@ -41,10 +43,10 @@ Snowmass 2021 also communicates actively via Slack, which is an online chat serv
 * Slack Server: https://snowmass2021.slack.com
 * general planning channel: ``#snowmass-2021-planning`` ``#general``
 
-  * early career / snowmass young channel: ...
-* computational frontier (CompF) channel: ``#comp_frontier_topics``
+  * snowmass early career (SEC)  channel (organizers/point of contact): ``#early-career-snowmass`` ``#early-career-rep``
+  * computational frontier (CompF) channel: ``#comp_frontier_topics``
 
-  * early career / snowmass young channel (organizers/point of contact, invite-only): ...
-* Theoretical Calculations and Simulation (CompF2) channel: ``#compf02-theorycalcsim``
+    * CompF early career point channel (organizers/point of contact): ``#early-career-computational-coordination``
+    * topical group **CompF2: Theoretical Calculations and Simulation** channel: ``#compf02-theorycalcsim``
 
 Please follow the instructions `outlined here <https://snowmass21.org/#join_slack_workspace_and_snowmass_email_list>`_ to join the Slack server.
