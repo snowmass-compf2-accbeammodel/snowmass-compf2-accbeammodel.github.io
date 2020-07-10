@@ -1,4 +1,4 @@
-.. _coc:
+.. _community-coc:
 
 Code of Conduct
 ===============
