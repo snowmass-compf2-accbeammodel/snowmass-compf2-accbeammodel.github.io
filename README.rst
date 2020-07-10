@@ -7,7 +7,7 @@ CompF2 is part of the `Computational Frontier (CompF) <https://snowmass21.org/co
 Contributing
 ^^^^^^^^^^^^
 
-You can just edit the files inside ``docs/source/`` as needed and send updates as pull requests.
+You can just edit the files inside `docs/source/ <https://github.com/snowmass-compf2-accbeammodel/snowmass-compf2-accbeammodel.github.io/tree/latest/docs/source>`_ as needed and send updates as pull requests.
 (`Here is a quick introduction on how to work with GitHub <https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository>`_.)
 
 The easiest way to do this is by visiting the homepage itself under
