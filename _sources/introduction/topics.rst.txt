@@ -28,6 +28,7 @@ As interest group in the `Theoretical Calculations and Simulation (CompF2) <http
     * Wake fields
     * Quantum limit in novel accelerator structures
     * X-ray simulation
+    * extreme beams
     * ...
   * Components
 
@@ -52,6 +53,7 @@ As interest group in the `Theoretical Calculations and Simulation (CompF2) <http
   * AI/ML
   * Open Science
   * Resources, training
+  * Cloud computing
   * Software sustainability
   * Integration of accelerator and detector (for radiation studies) codes
 
