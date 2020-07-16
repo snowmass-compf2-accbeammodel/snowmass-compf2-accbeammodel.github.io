@@ -7,30 +7,40 @@ As interest group in the `Theoretical Calculations and Simulation (CompF2) <http
 
 * **Modeling of**
 
-  * Colliders (leptons, hadrons, gamma, mix)
+  * Specific types of accelerators (leptons, hadrons, gamma, mix)
 
-    * rings
+    * Injectors
+    * High power targets
     * Linacs
-    * Entire machine complex
+    * Rings (multi-bunch injection, etc.)
+    * Recirculating systems
+    * Energy recovery systems
+    * Fixed field accelerators (FFAGs, etc.)
+    * Colliders
   * Advanced Concepts
 
     * plasma accelerators (LWFA, PWFA)
     * dielectric
+    * muon accelerators
+    * integral optics accelerators
   * Specific physics topics
 
     * beam-beam
-    * Halo
-    * Collisions
-    * Radiation
-    * Spin dynamics
-    * Space charge
-    * Coherent synchrotron radiation
-    * Wake fields
-    * Quantum limit in novel accelerator structures
+    * halo formation
+    * emittance preservation
+    * electron cloud
+    * collisions
+    * radiation production and transport
+    * spin dynamics
+    * space charge
+    * coherent synchrotron radiation
+    * wake fields
+    * quantum limit in novel accelerator structures
     * X-ray simulation
     * extreme beams
+    * power deposition and resulting radioactivation
     * ...
-  * Components
+  * Components and realistic beamline elements (fringe fields, high-order effects, etc.)
 
     * RF cavities
     * Magnets
@@ -40,6 +50,7 @@ As interest group in the `Theoretical Calculations and Simulation (CompF2) <http
 
   * Commonalities in comp. needs
   * EVA (End-to-end Virtual Accelerator)
+  * Design optimization
   * HPC / Exascale / programming
 
     * GPUs; future hardware
