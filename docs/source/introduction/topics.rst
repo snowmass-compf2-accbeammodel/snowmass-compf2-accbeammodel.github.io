@@ -39,6 +39,8 @@ As interest group in the `Theoretical Calculations and Simulation (CompF2) <http
     * X-ray simulation
     * extreme beams
     * power deposition and resulting radioactivation
+    * cooling
+    * beam-material interactions (ionization, atomic processes,...)
     * ...
   * Components and realistic beamline elements (fringe fields, high-order effects, etc.)
 
