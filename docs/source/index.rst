@@ -78,6 +78,7 @@ Community
    :hidden:
 
    community/contact
+   community/snowmass
    community/meetings
    community/coc
 
