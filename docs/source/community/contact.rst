@@ -3,7 +3,7 @@
 Mailing list
 ============
 
-If you want to be included, removed or suggest additional names, please send an e-mail to  <mailto:AccBeamModelSnowmass21@lbl.gov>.
+If you want to be included, removed or suggest additional names, please send an e-mail to AccBeamModelSnowmass21@lbl.gov.
 
 Current people in the list:
 ---------------------------
