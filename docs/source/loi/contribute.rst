@@ -11,7 +11,7 @@ Please make these as simple and easy to read as possible.
 Authors of the letters are welcome to make a full writeup for their work as a contributed paper and submit it to the Snowmass proceedings.
 However, a contributed paper is not required.
 
-**LoIs should be contributed until ...** (Snowmass upload close-out: **August 31, 2020**).
+**LoIs should be contributed until August 31, 2020**.
 
 For our interest group, we propose to use a simple template to simplify the process:
 
@@ -26,5 +26,5 @@ We suggest to use the following template for LOIs:
 
 We maintain lists of :ref:`proposed <loi-proposed>` and :ref:`submitted <loi-submitted>` LOIs. 
 
-We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to <mailto:AccBeamModelSnowmass21@lbl.gov>.
+We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
 
