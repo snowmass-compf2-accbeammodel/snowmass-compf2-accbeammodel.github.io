@@ -24,7 +24,7 @@ We suggest to use the following template for LOIs:
 * Current and future challenges.
 * Advances needed to meet challenges.
 
-We maintain lists of :ref:`proposed <loi-proposed>` and :ref:`submitted <loi-submitted>`LOIs. 
+We maintain lists of :ref:`proposed <loi-proposed>` and :ref:`submitted <loi-submitted>` LOIs. 
 
 We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to <mailto:AccBeamModelSnowmass21@lbl.gov>.
 
