@@ -13,41 +13,18 @@ However, a contributed paper is not required.
 
 **LoIs should be contributed until ...** (Snowmass upload close-out: **August 31, 2020**).
 
-For our interest group, we propose to use a simple template to simplify the process.
-They can be contributed in the following ways:
+For our interest group, we propose to use a simple template to simplify the process:
 
-* TODO: pull request example (pdf)
-* TODO: or just sent per e-mail to ...
+Proposed Template
+^^^^^^^^^^^^^^^^^
 
-
-Tentative Plan
-^^^^^^^^^^^^^^
-
-(Might be still too prescriptive?)
-
-* Encourage community building via co-authorship by as many authors as possible. One lead starts with an initial skeleton or draft, then augments and crystallizes writing with an increasing number of authors.
-* Organizational structure for LOIs/paper:
-
-  * 1 lead.
-  * 1st tier co-writers: a few people.
-  * 2nd tier co-authors:  more people.
-  * third tier co-authors: everyone.
-* Timeline:
-
-  * Until July 10: organize ourselves, agree on topics, LOIs, structure and timeline.
-  * July 10-August 21: one to two weeks per writing step (lead, 1st tier, 2nd tier, 3rd tier).
-  * August 22-31: wrap-up and submit.
-
-
-Templates
-^^^^^^^^^
-
-We suggest to use the following (tentative) template for LOIs...
+We suggest to use the following template for LOIs:
 
 * Topic and status.
 * Current and future challenges.
 * Advances needed to meet challenges.
 
-.. note::
+We maintain lists of :ref:`proposed <loi-proposed>` and :ref:`submitted <loi-submitted>`LOIs. 
 
-   Do we collect contributions or do we advise authors to upload for themselves at https://snowmass21.org/loi ?
+We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to <mailto:AccBeamModelSnowmass21@lbl.gov>.
+

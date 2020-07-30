@@ -3,7 +3,9 @@
 Topics
 ======
 
-As interest group in the `Theoretical Calculations and Simulation (CompF2) <https://snowmass21.org/computational/simulations>`_ topical group in the `Computational Frontier <https://snowmass21.org/computational/start>`_ our topics of interest include:
+If you would like to propose changes, additions or comments, please send an e-mail to <mailto:AccBeamModelSnowmass21@lbl.gov>.
+
+As the *Accelerator & beam physics modeling* interest group in the `Theoretical Calculations and Simulation (CompF2) <https://snowmass21.org/computational/simulations>`_ topical group in the `Computational Frontier <https://snowmass21.org/computational/start>`_ our topics of interest include:
 
 * **Modeling of**
 
@@ -17,12 +19,14 @@ As interest group in the `Theoretical Calculations and Simulation (CompF2) <http
     * Energy recovery systems
     * Fixed field accelerators (FFAGs, etc.)
     * Colliders
+
   * Advanced Concepts
 
     * plasma accelerators (LWFA, PWFA)
     * dielectric
     * muon accelerators
     * integral optics accelerators
+
   * Specific physics topics
 
     * beam-beam
@@ -42,6 +46,7 @@ As interest group in the `Theoretical Calculations and Simulation (CompF2) <http
     * cooling
     * beam-material interactions (ionization, atomic processes,...)
     * ...
+
   * Components and realistic beamline elements (fringe fields, high-order effects, etc.)
 
     * RF cavities
@@ -69,4 +74,6 @@ As interest group in the `Theoretical Calculations and Simulation (CompF2) <http
   * Cloud computing
   * Software sustainability
   * Integration of accelerator and detector (for radiation studies) codes
+  * Mesh refinement
+  * Synergies with non-HEP science
 
