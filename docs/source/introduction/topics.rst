@@ -73,6 +73,7 @@ As the *Accelerator & beam physics modeling* interest group in the `Theoretical 
   * Resources, training
   * Cloud computing
   * Software sustainability
+  * Resources for code support and user support
   * Integration of accelerator and detector (for radiation studies) codes
   * Mesh refinement
   * Synergies with non-HEP science
