@@ -25,7 +25,7 @@ The work within this frontier is organized into **seven topical groups**:
 * CompF7: Reinterpretation and long-term preservation of data and code
 
 Each `topical group <https://snowmass21.org/computational/start>`_ has an overarching :ref:`mailing list and slack channel <community-snowmass>`.
-The interest group herein is part of **CompF2** and we invite you to :ref:`join our *Accelerator & beam physics modeling* mailing list <community-contact>`.
+The interest group herein is part of topical group **CompF2** and we invite you to :ref:`join our *Accelerator & beam physics modeling* mailing list <community-contact>`.
 
 On **August 10-11, 2020**, we are pleased to invite the community to our virtual kick-off Computational Frontier meeting (`indico link <https://indico.fnal.gov/event/43829/>`_).
 At the meeting, each topical group will present its charge and plans for gathering input from the community.
