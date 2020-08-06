@@ -12,14 +12,14 @@ Current people in the list:
 * Andreas Adelmann* 
 * James Amundson* 
 * Thomas Antonsen*
-* Mei Bai* 
+* Mei Bai 
 * Carlo Benedetti
 * Martin Berz* 
 * Sandra Biedron
 * Michael Borland* 
 * Lucas Brouwer 
 * David Bruhwiler 
-* Yunhai Cai* 
+* Yunhai Cai 
 * John R Cary 
 * Nathan Cook  
 * Ben Cowan*
