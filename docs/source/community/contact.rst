@@ -24,7 +24,7 @@ Current people in the list:
 * Yunhai Cai 
 * John R Cary 
 * Nathan Cook  
-* Ben Cowan*
+* Ben Cowan
 * Blagoje Djordjevic 
 * Auralee Edelen*  
 * Jim Ellison* 
