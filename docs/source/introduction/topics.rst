@@ -27,24 +27,29 @@ As the *Accelerator & beam physics modeling* interest group in the `Theoretical 
     * muon accelerators
     * integral optics accelerators
 
-  * Specific physics topics
+  * Specific physics/operational topics
 
+    * space charge
     * beam-beam
     * halo formation
     * emittance preservation
+    * wake fields
+    * impedance
     * electron cloud
     * collisions
     * radiation production and transport
     * spin dynamics
-    * space charge
     * coherent synchrotron radiation
-    * wake fields
     * quantum limit in novel accelerator structures
     * X-ray simulation
     * extreme beams
     * power deposition and resulting radioactivation
     * cooling
     * beam-material interactions (ionization, atomic processes,...)
+    * dynamic processes during operational scenarios (machine generally has to go through intermediate states with changing optics and fill patterns before it reaches its steady state)
+    * injection painting
+    * slow extraction
+    * slip-stacking
     * ...
 
   * Components and realistic beamline elements (fringe fields, high-order effects, etc.)
@@ -52,6 +57,7 @@ As the *Accelerator & beam physics modeling* interest group in the `Theoretical 
     * RF cavities
     * Magnets
     * ...
+    
   * ...
 * **Crosscutting topics**
 
