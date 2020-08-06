@@ -13,8 +13,10 @@ Current people in the list:
 * James Amundson* 
 * Thomas Antonsen*
 * Mei Bai 
+* Gabriele Bassi
 * Carlo Benedetti
 * Martin Berz* 
+* Oleksii Beznosov
 * Sandra Biedron
 * Michael Borland* 
 * Lucas Brouwer 
@@ -23,7 +25,7 @@ Current people in the list:
 * John R Cary 
 * Nathan Cook  
 * Ben Cowan*
-* Blagoje Djordjevic* 
+* Blagoje Djordjevic 
 * Auralee Edelen*  
 * Jim Ellison* 
 * Eric Esarey* 
