@@ -33,7 +33,7 @@ Current people in the list:
 * Yue Hao* 
 * Klaus Heinemann*
 * Georg Hoffstaetter 
-* Xiaobiao Huang* 
+* Xiaobiao Huang 
 * Zhirong Huang 
 * Axel Huebl 
 * Andreas Kemp  
@@ -42,11 +42,11 @@ Current people in the list:
 * Steve Lund*  
 * Chad Mitchell 
 * Nikolai Mokhov 
-* Warren Mori* 
+* Warren Mori 
 * Cho-Kuen Ng  
 * Greg Penn  
 * Ji Qiang  
-* Daniel Ratner* 
+* Daniel Ratner 
 * yves roblin 
 * Robert Ryne 
 * David Sagan
@@ -56,7 +56,7 @@ Current people in the list:
 * Reed Teyber 
 * Maxence Thevenet
 * Jean-Luc Vay 
-* Robert Warnock*
+* Robert Warnock
 * Stephen Webb  
 * Scott Wilks* 
 * He Zhang 
