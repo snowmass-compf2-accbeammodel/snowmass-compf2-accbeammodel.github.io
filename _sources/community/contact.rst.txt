@@ -7,48 +7,56 @@ If you want to be included, removed or suggest additional names, please send an 
 
 Current people in the list:
 ---------------------------
+(* indicates individuals who have been invited to the mailing list but have yet to accept)
 
-* Andreas Adelmann 
-* James Amundson 
-* Thomas Antonsen 
+* Andreas Adelmann* 
+* James Amundson* 
+* Thomas Antonsen*
+* Mei Bai* 
 * Carlo Benedetti
-* Martin Berz 
+* Martin Berz* 
 * Sandra Biedron
-* Michael Borland 
+* Michael Borland* 
 * Lucas Brouwer 
 * David Bruhwiler 
-* Yunhai Cai 
+* Yunhai Cai* 
 * John R Cary 
 * Nathan Cook  
-* Ben Cowan 
-* Auralee Edelen  
-* Jim Ellison 
-* Eric Esarey 
-* Alex Friedman  
+* Ben Cowan*
+* Blagoje Djordjevic* 
+* Auralee Edelen*  
+* Jim Ellison* 
+* Eric Esarey* 
+* Alex Friedman
+* Cameron Geddes  
 * David Grote 
-* Yue Hao 
-* Klaus Heinemann 
-* Xiaobiao Huang 
+* Yue Hao* 
+* Klaus Heinemann*
+* Georg Hoffstaetter 
+* Xiaobiao Huang* 
 * Zhirong Huang 
 * Axel Huebl 
 * Andreas Kemp  
 * Remi Lehe 
 * Ao Liu 
-* Steve Lund  
+* Steve Lund*  
 * Chad Mitchell 
 * Nikolai Mokhov 
-* Warren Mori 
+* Warren Mori* 
 * Cho-Kuen Ng  
 * Greg Penn  
 * Ji Qiang  
-* Daniel Ratner 
+* Daniel Ratner* 
 * yves roblin 
 * Robert Ryne 
-* David Sagan 
+* David Sagan
+* Carl Schroeder 
 * Kiran Sonnad  
 * Eric G. Stern 
 * Reed Teyber 
+* Maxence Thevenet
 * Jean-Luc Vay 
+* Robert Warnock*
 * Stephen Webb  
-* Scott Wilks 
+* Scott Wilks* 
 * He Zhang 
