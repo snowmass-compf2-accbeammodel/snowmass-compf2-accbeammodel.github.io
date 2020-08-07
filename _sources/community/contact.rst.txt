@@ -25,13 +25,16 @@ Current people in the list:
 * John R Cary 
 * Nathan Cook  
 * Ben Cowan
-* Blagoje Djordjevic 
+* Blagoje Djordjevic
+* Zhe Duan*
 * Auralee Edelen*  
 * Jim Ellison* 
 * Eric Esarey* 
+* Guiliano Franchetti*
 * Alex Friedman
 * Cameron Geddes  
 * David Grote 
+* Adi Hanuka
 * Yue Hao* 
 * Klaus Heinemann*
 * Georg Hoffstaetter 
@@ -42,6 +45,7 @@ Current people in the list:
 * Remi Lehe 
 * Ao Liu 
 * Steve Lund*  
+* Chris Mayes*
 * Chad Mitchell 
 * Nikolai Mokhov 
 * Warren Mori 
