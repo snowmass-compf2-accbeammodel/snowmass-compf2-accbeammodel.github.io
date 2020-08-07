@@ -14,7 +14,7 @@ To propose additions, modifications or provide comments, send an email to AccBea
 - EVA (End-to-end Virtual Accelerator) - *Jean-Luc Vay, David Sagan*.
 - Develop/integrate data standards & start-to-end workflows - *Axel Huebl, Jean-Luc Vay, David Sagan*.
 - Aspiration for Open Science (why and how; demystify misunderstandings) - *Axel Huebl*.
-- ...
+- Machine learning and surrogates models for simulation-based design optimization - *Remi Lehe*
 
 
 
