@@ -11,9 +11,9 @@ To propose additions, modifications or provide comments, send an email to AccBea
 
   - Integration, interfaces, tooling, continuous testing.
   - Compatibility and extensibility of large, complex simulation software (Similar to `ECP xSDK <http://xsdk.info>`_ but for acc. modeling)
-- EVA (End-to-end Virtual Accelerator) - *Jean-Luc Vay*.
-- Develop/integrate data standards & start-to-end workflows - *Axel Huebl, Jean-Luc Vay*.
-- (Re-iterate) Aspiration for Open Science (why and how; demystify misunderstandings) - *Axel Huebl*.
+- EVA (End-to-end Virtual Accelerator) - *Jean-Luc Vay, David Sagan*.
+- Develop/integrate data standards & start-to-end workflows - *Axel Huebl, Jean-Luc Vay, David Sagan*.
+- Aspiration for Open Science (why and how; demystify misunderstandings) - *Axel Huebl*.
 - ...
 
 
