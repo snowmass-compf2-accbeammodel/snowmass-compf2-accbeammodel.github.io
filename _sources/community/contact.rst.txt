@@ -45,7 +45,7 @@ Current people in the list:
 * Remi Lehe 
 * Ao Liu 
 * Steve Lund*  
-* Chris Mayes*
+* Chris Mayes
 * Chad Mitchell 
 * Nikolai Mokhov 
 * Warren Mori 
