@@ -30,7 +30,7 @@ Our interest group and community organizes in the following ways:
       * CompF early career point of contact: ``sec-compf@googlegroups.com``
     * topical group **CompF2: Theoretical Calculations and Simulation** e-mail list:  ``snowmass-compf02-theorycalcsim@fnal.gov`` (``SNOWMASS-COMPF02-THEORYCALCSIM``)
 
-      * **interest group Accelerator & Beam Physics Modeling mailing list:** not yet set up, will reach out soon
+      * **interest group Accelerator & Beam Physics Modeling mailing list:** ``AccBeamModelSnowmass21@lbl.gov``
 
 Please follow the instructions `outlined here <https://snowmass21.org/#join_slack_workspace_and_snowmass_email_list>`_ to join these mailing lists.
 
