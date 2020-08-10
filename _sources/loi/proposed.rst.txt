@@ -16,6 +16,12 @@ To propose additions, modifications or provide comments, send an email to AccBea
 - Aspiration for Open Science (why and how; demystify misunderstandings) - *Axel Huebl*.
 - Machine learning and surrogates models for simulation-based design optimization - *Remi Lehe*.
 - Summary of the "Modeling and simulation tools, fundamental theory and applied math" working group of the GARD ABP Roadmap workshops - *Jean-Luc Vay, Xiaobiao Huang, Tim Zolkin*.
+- Embracing industry-quality processes when developing scientific code - *Rémi Lehe*
+
+  - Continuous Integration
+  - Documentation
+  - Easy installation across different platforms
+- Center(s) for accelerator and beam modeling - *Jean-Luc Vay*
 
 
 
