@@ -25,7 +25,7 @@ As the *Accelerator & beam physics modeling* interest group in the `Theoretical 
     * plasma accelerators (LWFA, PWFA)
     * dielectric
     * muon accelerators
-    * integral optics accelerators
+    * integrable optics accelerators
 
   * Specific physics/operational topics
 
