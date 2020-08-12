@@ -56,6 +56,7 @@ As the *Accelerator & beam physics modeling* interest group in the `Theoretical 
 
     * RF cavities
     * Magnets
+    * structured plasmas
     * ...
     
   * ...
