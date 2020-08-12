@@ -36,6 +36,7 @@ As the *Accelerator & beam physics modeling* interest group in the `Theoretical 
     * wake fields
     * impedance
     * electron cloud
+    * fast ion instability
     * collisions
     * radiation production and transport
     * spin dynamics
