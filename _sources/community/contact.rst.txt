@@ -61,6 +61,7 @@ Current people in the list:
 * Eric G. Stern 
 * Reed Teyber 
 * Maxence Thevenet
+* Frank Tsung
 * Jean-Luc Vay 
 * Robert Warnock
 * Stephen Webb  
