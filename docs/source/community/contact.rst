@@ -18,7 +18,7 @@ Current people in the list:
 * Martin Berz* 
 * Oleksii Beznosov
 * Sandra Biedron
-* Michael Borland* 
+* Michael Borland 
 * Lucas Brouwer 
 * David Bruhwiler 
 * Yunhai Cai 
@@ -27,10 +27,10 @@ Current people in the list:
 * Ben Cowan
 * Blagoje Djordjevic
 * Zhe Duan*
-* Auralee Edelen*  
+* Auralee Edelen  
 * Jim Ellison* 
 * Eric Esarey* 
-* Guiliano Franchetti*
+* Guiliano Franchetti
 * Alex Friedman
 * Cameron Geddes  
 * David Grote 
