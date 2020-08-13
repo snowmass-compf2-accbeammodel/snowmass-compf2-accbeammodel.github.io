@@ -53,7 +53,8 @@ Current people in the list:
 * Greg Penn  
 * Ji Qiang  
 * Daniel Ratner 
-* yves roblin 
+* Yves roblin 
+* Ryan Roussel
 * Robert Ryne 
 * David Sagan
 * Carl Schroeder 
