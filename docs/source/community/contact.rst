@@ -42,6 +42,7 @@ Current people in the list:
 * Zhirong Huang 
 * Axel Huebl 
 * Andreas Kemp  
+* Jarrod Leddy
 * Remi Lehe 
 * Ao Liu 
 * Steve Lund*  
@@ -68,3 +69,4 @@ Current people in the list:
 * Stephen Webb  
 * Scott Wilks* 
 * He Zhang 
+* Ilya Zilberter 
