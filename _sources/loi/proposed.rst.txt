@@ -16,7 +16,6 @@ To propose additions, modifications, provide comments, or if you are interested 
 - **Develop/integrate data standards & start-to-end workflows** - *Axel Huebl, Jean-Luc Vay, David Sagan*.
 - **Aspiration for Open Science (why and how; demystify misunderstandings)** - *Axel Huebl*.
 - **Machine learning and surrogates models for simulation-based optimization of accelerator design** - *Remi Lehe*.
-- **Summary of the "Modeling and simulation tools, fundamental theory and applied math" working group of the GARD ABP Roadmap workshops** - *Jean-Luc Vay, Xiaobiao Huang, Tim Zolkin*.
 - **Embracing industry-quality processes when developing scientific code** - *Rémi Lehe*
 
   - Continuous Integration
