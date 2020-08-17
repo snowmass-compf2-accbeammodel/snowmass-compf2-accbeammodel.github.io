@@ -25,6 +25,7 @@ Current people in the list:
 * John R Cary 
 * Nathan Cook  
 * Ben Cowan
+* Alexander Debus
 * Blagoje Djordjevic
 * Zhe Duan* 
 * Auralee Edelen*  
@@ -40,6 +41,7 @@ Current people in the list:
 * Klaus Heinemann*
 * Georg Hoffstaetter 
 * Mark Hogan
+* Chenkung Huang
 * Xiaobiao Huang 
 * Zhirong Huang 
 * Axel Huebl 
