@@ -8,7 +8,7 @@ Proposed topics for LOIs derive from our :ref:`topics <introduction-topics>`.
 To propose additions, modifications, provide comments, or if you are interested to participate to the writing - or simply to co-sign - one of the proposed LOIs listed below, send an email to AccBeamModelSnowmass21@lbl.gov or submit a `pull request via github <https://github.com/snowmass-compf2-accbeammodel/snowmass-compf2-accbeammodel.github.io/blob/latest/docs/source/loi/proposed.rst>`_.
 
 
-- **Develop accelerator toolkit** - *David Sagan, Axel Huebl, Jean-Luc Vay, David Bruhwiler, Robert Ryne, Cho Ng, Rémi Lehe*.
+- **A community ecosystem of open modules and toolkits for multiphysics particle accelerator modeling and design** - *David Sagan, David Bruhwiler, Axel Huebl, Jean-Luc Vay, Robert Ryne, Cho Ng, Rémi Lehe*.
 
   - Integration, interfaces, tooling, continuous testing.
   - Compatibility and extensibility of large, complex simulation software (Similar to `ECP xSDK <http://xsdk.info>`_ but for acc. modeling)
@@ -21,9 +21,11 @@ To propose additions, modifications, provide comments, or if you are interested 
   - Continuous Integration
   - Documentation
   - Easy installation across different platforms
-- **Center(s) for accelerator and beam modeling** - *Jean-Luc Vay*
-- **Plasma acceleration theory and simulation needs** - *Carl Schroeder, Warren Mori, Rémi Lehe, Jean-Luc Vay*
-- **Modeling of structured plasmas for next generation accelerators** - *Nathan Cook, Jean-Luc Vay*
+- **Center(s) for accelerator and beam modeling** - *Jean-Luc Vay, David Bruhwiler, David Sagan, Axel Huebl*
+- **Plasma acceleration theory and simulation needs** - *Carl Schroeder, Warren Mori, Carlo Benedetti, Eric Esarey, A. Huebl, Rémi Lehe, Jean-Luc Vay*
+- **Modeling of structured plasmas for next generation accelerators** - *Nathan Cook, Rémi Lehe, Maxence Thévenet, Jean-Luc Vay*
+- **Poisson solver library** - Ji Qiang, ... [to be confirmed]
+- **Particle-In-Cell library/testbed** - F. Tsung, ... [to be confirmed]
 
 
 
