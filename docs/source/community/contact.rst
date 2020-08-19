@@ -15,7 +15,7 @@ Current people in the list:
 * Mei Bai 
 * Gabriele Bassi
 * Carlo Benedetti
-* Martin Berz* 
+* Martin Berz 
 * Oleksii Beznosov
 * Sandra Biedron
 * Michael Borland* 
