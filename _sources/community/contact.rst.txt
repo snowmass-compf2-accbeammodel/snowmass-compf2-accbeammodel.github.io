@@ -9,7 +9,8 @@ Current people in the list:
 ---------------------------
 (* indicates individuals who have been invited to the mailing list but have yet to accept)
 
-* Andreas Adelmann* 
+* Andreas Adelmann*
+* Eduardo Alves 
 * James Amundson* 
 * Thomas Antonsen*
 * Mei Bai 
