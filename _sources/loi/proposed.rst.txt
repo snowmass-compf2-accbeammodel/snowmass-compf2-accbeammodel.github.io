@@ -15,7 +15,7 @@ To propose additions, modifications, provide comments, or if you are interested 
 - **EVA (End-to-end Virtual Accelerator)** - *Jean-Luc Vay, David Sagan*.
 - **Develop/integrate data standards & start-to-end workflows** - *Axel Huebl, Jean-Luc Vay, David Sagan*.
 - **Aspiration for Open Science (why and how; demystify misunderstandings)** - *Axel Huebl*.
-- **Machine learning and surrogates models for simulation-based optimization of accelerator design** - *Remi Lehe*.
+- **Machine learning and surrogates models for simulation-based optimization of accelerator design** - *Remi Lehe, Adi Hanuka*.
 - **Embracing industry-quality processes when developing scientific code** - *Rémi Lehe*
 
   - Continuous Integration
@@ -26,6 +26,7 @@ To propose additions, modifications, provide comments, or if you are interested 
 - **Modeling of structured plasmas for next generation accelerators** - *Nathan Cook, Rémi Lehe, Maxence Thévenet, Jean-Luc Vay*
 - **Poisson solver library** - Ji Qiang, ... [to be confirmed]
 - **Particle-In-Cell library/testbed** - F. Tsung, ... [to be confirmed]
+- **Physics-based high brightness beam injector modeling** — *Chengkun Huang, Cho Ng, Tom Kwan,  Vitaly Pavlenko*
 
 
 
