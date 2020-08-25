@@ -15,7 +15,7 @@ To propose additions, modifications, provide comments, or if you are interested 
 - **EVA (End-to-end Virtual Accelerators)** - *Jean-Luc Vay, David Sagan*.
 - **Develop/integrate data standards & start-to-end workflows** - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet*.
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - *Axel Huebl*.
-- **Machine learning and surrogates models for simulation-based optimization of accelerator design** - *Remi Lehe, Adi Hanuka, Auralee Edelen*.
+- **Machine learning and surrogates models for simulation-based optimization of accelerator design** - *Remi Lehe, Adi Hanuka, Auralee Edelen, Xiabiao Huang, Christopher Mayes, Nathan Cook, Claudio Emma, Axel Huebl, Ryan Roussel, Maxence Thevenet, Jean-Luc Vay*
 - **Embracing industry-quality processes when developing scientific code** - *Rémi Lehe*
 
   - Continuous Integration
