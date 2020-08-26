@@ -70,5 +70,6 @@ Current people in the list:
 * Jean-Luc Vay 
 * Robert Warnock
 * Stephen Webb  
-* Scott Wilks* 
+* Scott Wilks*
+* Daniel Winklehner 
 * He Zhang 
