@@ -8,10 +8,11 @@ Proposed topics for LOIs derive from our :ref:`topics <introduction-topics>`.
 To propose additions, modifications, provide comments, or if you are interested to participate to the writing - or simply to co-sign - one of the proposed LOIs listed below, send an email to AccBeamModelSnowmass21@lbl.gov or submit a `pull request via github <https://github.com/snowmass-compf2-accbeammodel/snowmass-compf2-accbeammodel.github.io/blob/latest/docs/source/loi/proposed.rst>`_.
 
 
-- **A community ecosystem of open modules and toolkits for multiphysics particle accelerator modeling and design** - *David Sagan, David Bruhwiler, Axel Huebl, Jean-Luc Vay, Robert Ryne, Cho Ng, Rémi Lehe*.
+- **A modular community ecosystem for multiphysics particle accelerator modeling and design** - *Jean-Luc Vay, Axel Huebl, David Sagan, David Bruhwiler, Robert Ryne, Cho Ng, Rémi Lehe*.
 
   - Integration, interfaces, tooling, continuous testing.
   - Compatibility and extensibility of large, complex simulation software (Similar to `ECP xSDK <http://xsdk.info>`_ but for acc. modeling)
+- **Beam Dynamics Toolkit** - *David Sagan, David Bruhwiler, Axel Huebl, Jean-Luc Vay, Robert Ryne, Cho Ng, Rémi Lehe*.
 - **EVA (End-to-end Virtual Accelerators)** - *Jean-Luc Vay, David Sagan*.
 - **Develop/integrate data standards & start-to-end workflows** - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet*.
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - *Axel Huebl*.
