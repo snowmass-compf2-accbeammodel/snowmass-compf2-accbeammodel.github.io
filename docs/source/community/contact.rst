@@ -32,6 +32,7 @@ Current people in the list:
 * Auralee Edelen*  
 * Jim Ellison* 
 * Eric Esarey* 
+* Ricardo Fonseca
 * Guiliano Franchetti*
 * Alex Friedman
 * Cameron Geddes  
@@ -61,13 +62,15 @@ Current people in the list:
 * yves roblin 
 * Robert Ryne 
 * David Sagan
-* Carl Schroeder 
+* Carl Schroeder
+* Luis Silva 
 * Kiran Sonnad  
 * Eric G. Stern 
 * Reed Teyber 
 * Maxence Thevenet
 * Alec Thomas
 * Jean-Luc Vay 
+* Jorge Vieira
 * Robert Warnock
 * Stephen Webb  
 * Scott Wilks*
