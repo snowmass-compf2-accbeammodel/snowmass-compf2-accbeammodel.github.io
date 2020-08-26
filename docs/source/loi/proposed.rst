@@ -14,15 +14,15 @@ To propose additions, modifications, provide comments, or if you are interested 
   - Compatibility and extensibility of large, complex simulation software (Similar to `ECP xSDK <http://xsdk.info>`_ but for acc. modeling)
 - **Beam Dynamics Toolkit** - *David Sagan, David Bruhwiler, Axel Huebl, Jean-Luc Vay, Robert Ryne, Cho Ng, Rémi Lehe*.
 - **EVA (End-to-end Virtual Accelerators)** - *Jean-Luc Vay, David Sagan*.
-- **Develop/integrate data standards & start-to-end workflows** - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet*.
-- **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - *Axel Huebl*.
+- **Develop/integrate data standards & start-to-end workflows** - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet, Rémi Lehe*.
+- **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - *Axel Huebl, Jean-Luc Vay*.
 - **Machine learning and surrogates models for simulation-based optimization of accelerator design** - *Remi Lehe, Adi Hanuka, Auralee Edelen, Xiabiao Huang, Christopher Mayes, Nathan Cook, Claudio Emma, Axel Huebl, Ryan Roussel, Maxence Thevenet, Jean-Luc Vay*
-- **Embracing industry-quality processes when developing scientific code** - *Rémi Lehe*
+- **Embracing industry-quality processes when developing scientific code** - *Rémi Lehe, Axel Huebl*
 
   - Continuous Integration
   - Documentation
   - Easy installation across different platforms
-- **Center(s) for accelerator and beam modeling** - *Jean-Luc Vay, David Bruhwiler, David Sagan, Axel Huebl*
+- **Center(s) for accelerator and beam modeling** - *Jean-Luc Vay, David Bruhwiler, David Sagan, Axel Huebl, Cho-Kuen Ng, Ji Qiang*
 - **Plasma acceleration theory and simulation needs** - *Carl Schroeder, Warren Mori, Carlo Benedetti, Eric Esarey, Axel Huebl, Rémi Lehe, Jean-Luc Vay*
 - **Modeling of structured plasmas for next generation accelerators** - *Nathan Cook, Rémi Lehe, Maxence Thévenet, Jean-Luc Vay*
 - **Poisson solver library** - Ji Qiang, ... [to be confirmed]
