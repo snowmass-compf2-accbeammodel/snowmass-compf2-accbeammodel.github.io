@@ -19,7 +19,7 @@ For all other LOIs, please contact the mailing list for feedback.
 - **EVA (End-to-end Virtual Accelerators)** - `view on overleaf <https://www.overleaf.com/read/mggpzqpjbjny>`_ - *Jean-Luc Vay, David Sagan, Axel Huebl*.
 - **Develop/integrate data standards & start-to-end workflows** - `view on overleaf <https://www.overleaf.com/read/xhkzttqhhkbk>`_ - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet, Christopher Mayes*.
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `view on overleaf <https://www.overleaf.com/read/bwntmgkyvyvc>`_ - *Axel Huebl, Jean-Luc Vay, Rémi Lehe, Christopher Mayes*.
-- **Machine learning and surrogates models for simulation-based optimization of accelerator design** - `view on overleaf <https://www.overleaf.com/read/nmfxffwgvjgf>` - *Remi Lehe, Adi Hanuka, Auralee Edelen, Xiabiao Huang, Christopher Mayes, Nathan Cook, Claudio Emma, Axel Huebl, Ryan Roussel, Maxence Thevenet, Jean-Luc Vay*.
+- **Machine learning and surrogates models for simulation-based optimization of accelerator design** - `view on overleaf <https://www.overleaf.com/read/nmfxffwgvjgf>`_ - *Remi Lehe, Adi Hanuka, Auralee Edelen, Xiabiao Huang, Christopher Mayes, Nathan Cook, Claudio Emma, Axel Huebl, Ryan Roussel, Maxence Thevenet, Jean-Luc Vay*.
 - **Embracing modern software tools and user-friendly practices, when distributing scientific codes** - *Rémi Lehe, Axel Huebl, Jean-Luc Vay*
   - Continuous Integration
   - Documentation
