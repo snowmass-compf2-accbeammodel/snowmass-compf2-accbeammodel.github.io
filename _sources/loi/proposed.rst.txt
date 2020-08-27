@@ -25,7 +25,7 @@ For all other LOIs, please contact the mailing list for feedback.
 - **Plasma acceleration theory and simulation needs** - *Carl Schroeder, Warren Mori, Carlo Benedetti, Eric Esarey, Axel Huebl, Rémi Lehe, Jean-Luc Vay*.
 - **Modeling of structured plasmas for next generation accelerators** - *Nathan Cook, Rémi Lehe, Maxence Thévenet, Jean-Luc Vay*.
 - **Poisson solver library** - *Ji Qiang*.
-- **Physics-based high brightness beam injector modeling** — *Chengkun Huang, Cho Ng, Tom Kwan,  Vitaly Pavlenko*.
+- **Physics-based high brightness beam injector modeling** - `view on google docs <https://drive.google.com/file/d/1-kInumHtiyOh1t_dCKXSm4d_uaaUnsNY/view?usp=sharing>`_ — *Chengkun Huang, Cho Ng, Tom Kwan,  Vitaly Pavlenko*.
 - **Consortium for PIC modeling in accelerator science** - *Warren Mori, Frank Tsung*.
 - **Cloud computing and use in education** - *David Bruhwiler*.
 - **Quantum computing for accelerator and beam physics** - *He Zhang, Ji Qiang*.
