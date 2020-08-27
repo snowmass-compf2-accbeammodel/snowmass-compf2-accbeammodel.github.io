@@ -17,7 +17,7 @@ To propose additions, modifications, provide comments, or if you are interested 
 - **Develop/integrate data standards & start-to-end workflows** - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet, Christopher Mayes*.
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - *Axel Huebl, Jean-Luc Vay, Rémi Lehe, Christopher Mayes*.
 - **Machine learning and surrogates models for simulation-based optimization of accelerator design** - *Remi Lehe, Adi Hanuka, Auralee Edelen, Xiabiao Huang, Christopher Mayes, Nathan Cook, Claudio Emma, Axel Huebl, Ryan Roussel, Maxence Thevenet, Jean-Luc Vay*.
-- **Embracing industry-quality processes when developing scientific code** - *Rémi Lehe, Axel Huebl, Jean-Luc Vay*
+- **Embracing modern software tools and user-friendlypractices, when distributing scientific codes** - *Rémi Lehe, Axel Huebl, Jean-Luc Vay*
   - Continuous Integration
   - Documentation
   - Easy installation across different platforms
