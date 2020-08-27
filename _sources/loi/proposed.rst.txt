@@ -17,8 +17,8 @@ For all other LOIs, please contact the mailing list for feedback.
   - Compatibility and extensibility of large, complex simulation software (Similar to `ECP xSDK <http://xsdk.info>`_ but for acc. modeling)
 - **Beam Dynamics Toolkit** - `view on overleaf <https://www.overleaf.com/read/rrsvsscfvfqt>`_ - *David Sagan, David Bruhwiler, Axel Huebl, Jean-Luc Vay, Robert Ryne, Cho Ng, Rémi Lehe*.
 - **EVA (End-to-end Virtual Accelerators)** - `view on overleaf <https://www.overleaf.com/read/mggpzqpjbjny>`_ - *Jean-Luc Vay, David Sagan, Axel Huebl*.
-- **Develop/integrate data standards & start-to-end workflows** - `view on overleaf <https://www.overleaf.com/read/xhkzttqhhkbk>`_ - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet, Christopher Mayes*.
-- **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `view on overleaf <https://www.overleaf.com/read/bwntmgkyvyvc>`_ - *Axel Huebl, Jean-Luc Vay, Rémi Lehe, Christopher Mayes*.
+- **Develop/integrate data standards & start-to-end workflows** - `view on overleaf <https://www.overleaf.com/read/xhkzttqhhkbk>`_ - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet, Rémi Lehe, Christopher Mayes, Yu-Dai Tsai*.
+- **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `view on overleaf <https://www.overleaf.com/read/bwntmgkyvyvc>`_ - *Axel Huebl, Jean-Luc Vay, Christopher Mayes, Yu-Dai Tsai*.
 - **Machine learning and surrogates models for simulation-based optimization of accelerator design** - `view on overleaf <https://www.overleaf.com/read/nmfxffwgvjgf>`_ - *Remi Lehe, Adi Hanuka, Auralee Edelen, Xiabiao Huang, Christopher Mayes, Nathan Cook, Claudio Emma, Axel Huebl, Ryan Roussel, Maxence Thevenet, Jean-Luc Vay*.
 - **Embracing modern software tools and user-friendly practices, when distributing scientific codes** - *Rémi Lehe, Axel Huebl, Jean-Luc Vay*
   - Continuous Integration
