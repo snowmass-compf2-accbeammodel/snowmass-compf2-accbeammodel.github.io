@@ -21,6 +21,7 @@ For all other LOIs, please contact the mailing list for feedback.
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `view on overleaf <https://www.overleaf.com/read/bwntmgkyvyvc>`_ - *Axel Huebl, Jean-Luc Vay, Christopher Mayes, Yu-Dai Tsai*.
 - **Machine learning and surrogates models for simulation-based optimization of accelerator design** - `view on overleaf <https://www.overleaf.com/read/nmfxffwgvjgf>`_ - *Remi Lehe, Adi Hanuka, Auralee Edelen, Xiabiao Huang, Christopher Mayes, Nathan Cook, Claudio Emma, Axel Huebl, Ryan Roussel, Maxence Thevenet, Jean-Luc Vay*.
 - **Embracing modern software tools and user-friendly practices, when distributing scientific codes** - *Rémi Lehe, Axel Huebl, Jean-Luc Vay*
+
   - Continuous Integration
   - Documentation
   - Easy installation across different platforms
