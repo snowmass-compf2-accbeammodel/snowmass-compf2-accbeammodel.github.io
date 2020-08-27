@@ -15,7 +15,7 @@ For all other LOIs, please contact the mailing list for feedback.
 
   - Integration, interfaces, tooling, continuous testing.
   - Compatibility and extensibility of large, complex simulation software (Similar to `ECP xSDK <http://xsdk.info>`_ but for acc. modeling)
-- **Beam Dynamics Toolkit** - `view on overleaf <https://www.overleaf.com/read/rrsvsscfvfqt>`_ - *David Sagan, David Bruhwiler, Axel Huebl, Jean-Luc Vay, Robert Ryne, Cho Ng, Rémi Lehe*.
+- **Beam Dynamics Toolkit** - `view on overleaf <https://www.overleaf.com/read/rrsvsscfvfqt>`_ - *David Sagan, Robert Ryne, Jean-Luc Vay, Georg Hoffstaetter, Ji Qiang, Alex Friedman*.
 - **EVA (End-to-end Virtual Accelerators)** - `view on overleaf <https://www.overleaf.com/read/mggpzqpjbjny>`_ - *Jean-Luc Vay, David Sagan, Axel Huebl*.
 - **Develop/integrate data standards & start-to-end workflows** - `view on overleaf <https://www.overleaf.com/read/xhkzttqhhkbk>`_ - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet, Rémi Lehe, Christopher Mayes, Yu-Dai Tsai, Juncheng E*.
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `view on overleaf <https://www.overleaf.com/read/bwntmgkyvyvc>`_ - *Axel Huebl, Jean-Luc Vay, Christopher Mayes, Yu-Dai Tsai*.
