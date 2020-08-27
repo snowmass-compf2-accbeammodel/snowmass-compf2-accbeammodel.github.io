@@ -14,8 +14,8 @@ To propose additions, modifications, provide comments, or if you are interested 
   - Compatibility and extensibility of large, complex simulation software (Similar to `ECP xSDK <http://xsdk.info>`_ but for acc. modeling)
 - **Beam Dynamics Toolkit** - *David Sagan, David Bruhwiler, Axel Huebl, Jean-Luc Vay, Robert Ryne, Cho Ng, Rémi Lehe*.
 - **EVA (End-to-end Virtual Accelerators)** - *Jean-Luc Vay, David Sagan, Axel Huebl*.
-- **Develop/integrate data standards & start-to-end workflows** - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet*.
-- **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - *Axel Huebl, Jean-Luc Vay, Rémi Lehe*.
+- **Develop/integrate data standards & start-to-end workflows** - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet, Christopher Mayes*.
+- **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - *Axel Huebl, Jean-Luc Vay, Rémi Lehe, Christopher Mayes*.
 - **Machine learning and surrogates models for simulation-based optimization of accelerator design** - *Remi Lehe, Adi Hanuka, Auralee Edelen, Xiabiao Huang, Christopher Mayes, Nathan Cook, Claudio Emma, Axel Huebl, Ryan Roussel, Maxence Thevenet, Jean-Luc Vay*.
 - **Embracing industry-quality processes when developing scientific code** - *Rémi Lehe, Axel Huebl, Jean-Luc Vay*
   - Continuous Integration
