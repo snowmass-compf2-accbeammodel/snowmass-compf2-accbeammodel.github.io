@@ -20,11 +20,7 @@ For all other LOIs, please contact the mailing list for feedback.
 - **Develop/integrate data standards & start-to-end workflows** - `view on overleaf <https://www.overleaf.com/read/xhkzttqhhkbk>`_ - *Axel Huebl, Jean-Luc Vay, David Sagan, Maxence Thévenet, Rémi Lehe, Christopher Mayes, Yu-Dai Tsai*.
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `view on overleaf <https://www.overleaf.com/read/bwntmgkyvyvc>`_ - *Axel Huebl, Jean-Luc Vay, Christopher Mayes, Yu-Dai Tsai*.
 - **Machine learning and surrogates models for simulation-based optimization of accelerator design** - `view on overleaf <https://www.overleaf.com/read/nmfxffwgvjgf>`_ - *Remi Lehe, Adi Hanuka, Auralee Edelen, Xiabiao Huang, Christopher Mayes, Nathan Cook, Claudio Emma, Axel Huebl, Ryan Roussel, Maxence Thevenet, Jean-Luc Vay*.
-- **Embracing modern software tools and user-friendly practices, when distributing scientific codes** - *Rémi Lehe, Axel Huebl, Jean-Luc Vay*
-
-  - Continuous Integration
-  - Documentation
-  - Easy installation across different platforms
+- **Embracing modern software tools and user-friendly practices, when distributing scientific codes** - `view on overleaf <https://www.overleaf.com/read/jfqrjwybfhyw>`_ - *Rémi Lehe, Axel Huebl, Jean-Luc Vay*
 - **Center(s) for accelerator and beam modeling** - `view on overleaf <https://www.overleaf.com/read/pvzdxzstdnpy>`_ - *Jean-Luc Vay, David Bruhwiler, David Sagan, Axel Huebl, Rémi Lehe, Cho-Kuen Ng, Ji Qiang*.
 - **Plasma acceleration theory and simulation needs** - *Carl Schroeder, Warren Mori, Carlo Benedetti, Eric Esarey, Axel Huebl, Rémi Lehe, Jean-Luc Vay*.
 - **Modeling of structured plasmas for next generation accelerators** - *Nathan Cook, Rémi Lehe, Maxence Thévenet, Jean-Luc Vay*.
