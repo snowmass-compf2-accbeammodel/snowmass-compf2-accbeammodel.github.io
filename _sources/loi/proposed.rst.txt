@@ -12,9 +12,6 @@ For the LOIs that have a link below, contact the first author directly, in order
 For all other LOIs, please contact the mailing list for feedback.
 
 - **A modular community ecosystem for multiphysics particle accelerator modeling and design** - `view on overleaf <https://www.overleaf.com/read/hwbjfqfbrgyc>`_ - *Jean-Luc Vay, Axel Huebl, David Sagan, David Bruhwiler, Ao Liu, Cho-Kuen Ng, Ji Qiang, Rémi Lehe*.
-
-  - Integration, interfaces, tooling, continuous testing.
-  - Compatibility and extensibility of large, complex simulation software (Similar to `ECP xSDK <http://xsdk.info>`_ but for acc. modeling)
 - **Beam Dynamics Toolkit** - `view on overleaf <https://www.overleaf.com/read/rrsvsscfvfqt>`_ - *David Sagan, Robert Ryne, Jean-Luc Vay, Georg Hoffstaetter, Ji Qiang, Alex Friedman*.
 - **EVA (End-to-end Virtual Accelerators)** - `view on overleaf <https://www.overleaf.com/read/mggpzqpjbjny>`_ - *Jean-Luc Vay, David Sagan, Axel Huebl*.
 - **Develop/integrate data standards & start-to-end workflows** - `view on overleaf <https://www.overleaf.com/read/xhkzttqhhkbk>`_ - *Axel Huebl, Jean-Luc Vay, Rémi Lehe, Maxence Thévenet, Christopher Mayes, Yu-Dai Tsai, Juncheng E, Frank Tsung, Henri Vincenti, Angel Ferran Pousa, David Sagan*.
@@ -28,8 +25,8 @@ For all other LOIs, please contact the mailing list for feedback.
 - **Physics-based high brightness beam injector modeling** - `view on google docs <https://drive.google.com/file/d/1-kInumHtiyOh1t_dCKXSm4d_uaaUnsNY/view?usp=sharing>`_ - *Chengkun Huang, Cho Ng, Tom Kwan,  Vitaly Pavlenko*.
 - **Consortium for PIC modeling in accelerator science** - `view on overleaf <https://www.overleaf.com/1134197644cshkfgdhcxzv>`_ - *Warren Mori, Frank Tsung*.
 - **Cloud computing and use in education** - *David Bruhwiler*.
-- **Quantum computing for accelerator and beam physics** - *He Zhang, Ji Qiang*.
-- **Modeling of electron cooling from first princicples** - *He Zhang*.
+- **Quantum computing for accelerator and beam physics** - `view on overleaf <https://www.overleaf.com/read/jfxymdmvcnbb>`_ - *He Zhang, Ji Qiang*.
+- **Modeling of electron cooling from first princicples** - `view on overleaf <https://www.overleaf.com/read/xvgwfgbnprvr>`_ - *He Zhang*.
 - **Numerical Modeling for Superconducting Accelerator Magnets** - *Lucas Brouwer*.
 
 
