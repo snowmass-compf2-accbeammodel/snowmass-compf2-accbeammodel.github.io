@@ -28,6 +28,7 @@ For all other LOIs, please contact the mailing list for feedback.
 - **Quantum computing for accelerator and beam physics** - `view on overleaf <https://www.overleaf.com/read/jfxymdmvcnbb>`_ - *He Zhang, Ji Qiang*.
 - **Modeling of electron cooling from first princicples** - `view on overleaf <https://www.overleaf.com/read/xvgwfgbnprvr>`_ - *He Zhang*.
 - **Numerical Modeling for Superconducting Accelerator Magnets** - *Lucas Brouwer*.
+- **Surface Methods for Precision Accelerator Design and Virtual Prototyping of Accelerator Systems** - `view on overleaf <https://www.overleaf.com/read/gswgsxrfjpsw>`_ - *Robert D. Ryne, Dan T. Abell, D.L. Bruhwiler, Alex J. Dragt, Chad Mitchell, Ji Qiang, Jean-Luc Vay, and Peter Walstrom*.
 
 
 
