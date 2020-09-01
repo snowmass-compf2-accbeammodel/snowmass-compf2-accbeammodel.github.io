@@ -17,5 +17,6 @@ Submitted
 
 - **Beam Dynamics Toolkit** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Sagan-077.pdf>`_ - *David Sagan, et al*.
 
+- **Consortium for PIC Software in Accelerator Science** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF6_AF1_tsung-082.pdf>`_ - *Warren Mori, et al*.
 
    We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
