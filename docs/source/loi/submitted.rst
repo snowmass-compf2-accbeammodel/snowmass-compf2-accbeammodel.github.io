@@ -23,7 +23,6 @@ Submitted
 
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-AF1_AF0_Huebl-081.pdf>`_ - *Axel Huebl, et al*.
 
-
 - **Interdisciplinary simulations: Integrating accelerator RF and particle-matter interaction codes** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Ao_Liu-090.pdf>`_ - *Ao Liu, et al*.
 
 - **Machine learning and surrogate models for simulation-based optimization of accelerator design** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF3-AF1_AF6_Lehe-075.pdf>`_ - *Remi Lehe, et al*.
