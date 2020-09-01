@@ -16,5 +16,7 @@ Prototyping of Accelerator Systems** - `download pdf <https://www.snowmass21.org
 
 - **Electron Cooling Simulation Based on First Principles** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_HeZhang-073.pdf>`_ - *He Zhang, et al*.
 
+- **Beam Dynamics Toolkit** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Sagan-077.pdf>`_ - *David Sagan, et al*.
+
 
    We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
