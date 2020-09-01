@@ -9,8 +9,7 @@ Submitted
 
 - **Center(s) for accelerator and beam modeling** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF1_AF0_Vay-069.pdf>`_ - *Jean-Luc Vay, et al*.
 
-- **Surface Methods for Precision Accelerator Design and Virtual
-Prototyping of Accelerator Systems** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Robert_Ryne-071.pdf>`_ - *Robert Ryne, et al*.
+- **Surface Methods for Precision Accelerator Design and Virtual Prototyping of Accelerator Systems** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Robert_Ryne-071.pdf>`_ - *Robert Ryne, et al*.
 
 - **Getting Ready in Algorithm and Software Development for the Arrival of the Quantum Computing Age** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_HeZhang-072.pdf>`_ - *He Zhang, et al*.
 
