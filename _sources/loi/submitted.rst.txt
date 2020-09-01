@@ -3,10 +3,10 @@
 Submitted
 =========
 
-* LOI 1
-* LOI 2
-* ...
+- **A modular community ecosystem for multiphysics particle accelerator modeling and design** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF1_AF0_Vay-070.pdf>`_ - *Jean-Luc Vay, et al*.
 
-.. note::
+- **EVA (End-to-end Virtual Accelerators)** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF1_AF0_Vay-067.pdf>`_ - *Jean-Luc Vay, et al*.
+
+- **Center(s) for accelerator and beam modeling** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF1_AF0_Vay-069.pdf>`_ - *Jean-Luc Vay, et al*.
 
    We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
