@@ -23,4 +23,8 @@ Submitted
 
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-AF1_AF0_Huebl-081.pdf>`_ - *Axel Huebl, et al*.
 
+- **Machine learning and surrogate models for simulation-based optimization of accelerator design** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF3-AF1_AF6_Lehe-075.pdf>`_ - *Remi Lehe, et al*.
+
+- **Embracing modern software tools and user-friendly practices, when distributing scientific codes** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Lehe-076.pdf>`_ - *Remi Lehe, et al*.
+
    We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
