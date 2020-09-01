@@ -19,4 +19,8 @@ Submitted
 
 - **Consortium for PIC Software in Accelerator Science** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF6_AF1_tsung-082.pdf>`_ - *Warren Mori, et al*.
 
+- **Develop/integrate data standards & start-to-end workflows for Accelerator Physics** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-AF1_AF0_Huebl-079.pdf>`_) - *Axel Huebl, et al*.
+
+- **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `download pdf <https://www.overleaf.com/read/bwntmgkyvyvc>`_ (`submitted <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-AF1_AF0_Huebl-081.pdf>`_) - *Axel Huebl, et al*.
+
    We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
