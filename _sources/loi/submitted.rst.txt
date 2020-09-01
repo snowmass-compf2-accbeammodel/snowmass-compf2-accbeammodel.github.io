@@ -12,4 +12,9 @@ Submitted
 - **Surface Methods for Precision Accelerator Design and Virtual
 Prototyping of Accelerator Systems** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Robert_Ryne-071.pdf>`_ - *Robert Ryne, et al*.
 
+- **Getting Ready in Algorithm and Software Development for the Arrival of the Quantum Computing Age** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_HeZhang-072.pdf>`_ - *He Zhang, et al*.
+
+- **Electron Cooling Simulation Based on First Principles** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_HeZhang-073.pdf>`_ - *He Zhang, et al*.
+
+
    We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
