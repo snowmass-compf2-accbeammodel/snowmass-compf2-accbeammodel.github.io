@@ -31,4 +31,6 @@ Submitted
 
 - **Collaboration between industry and the HEP community** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CommF/SNOWMASS21-CommF1_CommF0-AF0_AF1_Bruhwiler-066.pdf>`_ - *David Bruhwiler, et al*.
 
+- **Physics-based high-fidelity modeling of high brightness beam injectors** - `download pdf <https://www.snowmass21.org/docs/files/summaries/AF/SNOWMASS21-AF7_AF1-CompF2_CompF0_Huang-183.pdf>`_ - *Chengkun Huang, et al*.
+
    We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
