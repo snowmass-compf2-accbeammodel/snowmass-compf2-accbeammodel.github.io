@@ -33,4 +33,8 @@ Submitted
 
 - **Physics-based high-fidelity modeling of high brightness beam injectors** - `download pdf <https://www.snowmass21.org/docs/files/summaries/AF/SNOWMASS21-AF7_AF1-CompF2_CompF0_Huang-183.pdf>`_ - *Chengkun Huang, et al*.
 
+- **Modeling of structured plasmas for next generation accelerators** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF6_AF0_Nathan_Cook-099.pdf>`_ - *Nathan Cook, et al*.
+
+- **Modeling Needs for Structured Wakefield Accelerators** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Cook-110.pdf>`_ - *Nathan Cook, et al*.
+
    We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
