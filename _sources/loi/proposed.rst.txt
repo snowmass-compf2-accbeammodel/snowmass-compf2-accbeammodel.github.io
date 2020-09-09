@@ -20,7 +20,7 @@ For all other LOIs, please contact the mailing list for feedback.
 - **Embracing modern software tools and user-friendly practices, when distributing scientific codes** - `view on overleaf <https://www.overleaf.com/read/jfqrjwybfhyw>`_ - *Rémi Lehe, Axel Huebl, Jean-Luc Vay*
 - **Center(s) for accelerator and beam modeling** - `view on overleaf <https://www.overleaf.com/read/pvzdxzstdnpy>`_ - *Jean-Luc Vay, David Bruhwiler, David Sagan, Axel Huebl, Rémi Lehe, Cho-Kuen Ng, Ji Qiang*.
 - **Plasma acceleration theory and simulation needs** - *Carl Schroeder, Warren Mori, Carlo Benedetti, Eric Esarey, Axel Huebl, Rémi Lehe, Jean-Luc Vay*.
-- **Modeling of structured plasmas for next generation accelerators** - *Nathan Cook, Rémi Lehe, Maxence Thévenet, Jean-Luc Vay*.
+- **Modeling of structured plasmas for next generation accelerators** - *Nathan Cook, Carlo Benedetti, David Bruhwiler, Enrico Brunetti, Stepan Bulanov, Stephen Coleman, Brigitte Cros, Bernhard Ersfeld, Spencer Gessner, Ahmad Fahim Habib, Thomas Heinemann, Bernhard Hidding, George Holt, Dino Jaroszynski, Remi Lehe, Jarrod Leddy, Carl Schroeder, Paul Scherkl, Peter Stoltz, Maxence Thévenet, Petros Tzeferacos, Jean-Luc Vay, Samueal Yoffe, Stephen Webb*.
 - **Poisson solver library** - *Ji Qiang*.
 - **Physics-based high brightness beam injector modeling** - `view on google docs <https://drive.google.com/file/d/1-kInumHtiyOh1t_dCKXSm4d_uaaUnsNY/view?usp=sharing>`_ - *Chengkun Huang, Cho Ng, Tom Kwan,  Vitaly Pavlenko*.
 - **Consortium for PIC modeling in accelerator science** - `view on overleaf <https://www.overleaf.com/1134197644cshkfgdhcxzv>`_ - *Warren Mori, Frank Tsung*.
