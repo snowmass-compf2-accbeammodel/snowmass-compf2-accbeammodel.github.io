@@ -37,4 +37,16 @@ Submitted
 
 - **Modeling Needs for Structured Wakefield Accelerators** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Cook-110.pdf>`__ - *Nathan Cook, et al*.
 
+- **A Parallel Poisson Solver Library for Accelerator Modeling Applications** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-050.pdf>`__ - *Ji Qiang, et al*.
+
+- **Numerical Modeling for Superconducting Accelerator Magnets** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF7_AF0-027.pdf>`__ - *Lucas Brouwer, et al*.
+
+- **Application of Machine Learning to Particle Accelerator Simulations** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF3_CompF0-AF1_AF0_Winklehner-108.pdf>`__ - *Daniel Winklehner, et al*.
+
+- **Computational modeling needs of plasma-based accelerators towards future colliders** - `download pdf <https://www.snowmass21.org/docs/files/summaries/AF/SNOWMASS21-AF1_AF6_Mori-218.pdf>`__ - *Warren Mori, et al*.
+
+- **Loss prediction through modeling of high dynamic range beam distributions** - `download pdf <https://www.snowmass21.org/docs/files/summaries/AF/SNOWMASS21-AF1_AF2_Kiersten_Ruisard-145.pdf>`__ - *Kiersten Ruisard, et al*.
+
+- **Adaptive Machine Learning for Time Varying Systems: Noninvasive Diagnostics and Automatic Control for Short Intense Bunches** - `download pdf <https://www.snowmass21.org/docs/files/summaries/AF/SNOWMASS21-AF1_AF4_Alexander_Scheinker,_ascheink@lanl.gov-029.pdf>`__ - *Alexander Scheinker, et al*.
+
    We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
