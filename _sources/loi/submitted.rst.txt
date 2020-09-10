@@ -49,4 +49,4 @@ Submitted
 
 - **Adaptive Machine Learning for Time Varying Systems: Noninvasive Diagnostics and Automatic Control for Short Intense Bunches** - `download pdf <https://www.snowmass21.org/docs/files/summaries/AF/SNOWMASS21-AF1_AF4_Alexander_Scheinker,_ascheink@lanl.gov-029.pdf>`__ - *Alexander Scheinker, et al*.
 
-   We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
+We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
