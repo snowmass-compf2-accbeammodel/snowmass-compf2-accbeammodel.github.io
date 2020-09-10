@@ -5,7 +5,7 @@ Topics
 
 If you would like to propose changes, additions or comments, please send an e-mail to <mailto:AccBeamModelSnowmass21@lbl.gov>.
 
-As the *Accelerator & beam physics modeling* interest group in the `Theoretical Calculations and Simulation (CompF2) <https://snowmass21.org/computational/simulations>`_ topical group in the `Computational Frontier <https://snowmass21.org/computational/start>`_ our topics of interest include:
+As the *Accelerator & beam physics modeling* interest group in the `Theoretical Calculations and Simulation (CompF2) <https://snowmass21.org/computational/simulations>`__ topical group in the `Computational Frontier <https://snowmass21.org/computational/start>`__ our topics of interest include:
 
 * **Modeling of**
 

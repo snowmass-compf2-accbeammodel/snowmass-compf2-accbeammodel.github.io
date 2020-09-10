@@ -9,9 +9,9 @@ Snowmass 2021
 These are the central resources of the Snowmass 2021 process.
 
 * homepage: https://snowmass21.org
-* Indico page: https://indico.fnal.gov/category/1098/ (`Computational Frontier <https://indico.fnal.gov/category/1107/>`_, `Early Career <https://indico.fnal.gov/category/1202/>`_)
+* Indico page: https://indico.fnal.gov/category/1098/ (`Computational Frontier <https://indico.fnal.gov/category/1107/>`__, `Early Career <https://indico.fnal.gov/category/1202/>`__)
 
-All communication types are `explained here <https://snowmass21.org/communicationtypes>`_.
+All communication types are `explained here <https://snowmass21.org/communicationtypes>`__.
 
 
 Mailing Lists
@@ -19,7 +19,7 @@ Mailing Lists
 
 Our interest group and community organizes in the following ways:
 
-* Snowmass e-mail server: ``listserv@fnal.gov`` (`help <https://listserv.fnal.gov/users.asp#subscribe%20to%20list>`_)
+* Snowmass e-mail server: ``listserv@fnal.gov`` (`help <https://listserv.fnal.gov/users.asp#subscribe%20to%20list>`__)
 * Snowmass e-mail list: ``snowmass@fnal.gov`` (``SNOWMASS``)
 
   * snowmass early career (SEC) e-mail list: ``snowmass-young@fnal.gov`` (``SNOWMASS-YOUNG``)
@@ -32,7 +32,7 @@ Our interest group and community organizes in the following ways:
 
       * **interest group Accelerator & Beam Physics Modeling mailing list:** ``AccBeamModelSnowmass21@lbl.gov``
 
-Please follow the instructions `outlined here <https://snowmass21.org/#join_slack_workspace_and_snowmass_email_list>`_ to join these mailing lists.
+Please follow the instructions `outlined here <https://snowmass21.org/#join_slack_workspace_and_snowmass_email_list>`__ to join these mailing lists.
 
 
 Slack Channels
@@ -49,4 +49,4 @@ Snowmass 2021 also communicates actively via Slack, which is an online chat serv
     * CompF early career point channel (organizers/point of contact): ``#early-career-computational-coordination``
     * topical group **CompF2: Theoretical Calculations and Simulation** channel: ``#compf02-theorycalcsim``
 
-Please follow the instructions `outlined here <https://snowmass21.org/#join_slack_workspace_and_snowmass_email_list>`_ to join the Slack server.
+Please follow the instructions `outlined here <https://snowmass21.org/#join_slack_workspace_and_snowmass_email_list>`__ to join the Slack server.

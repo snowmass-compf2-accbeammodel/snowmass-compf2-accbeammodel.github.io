@@ -3,7 +3,7 @@
 Contribute
 ==========
 
-`Snowmass 2021 Letters of Interest (LOI) <https://snowmass21.org/loi>`_ are informal documents intended to be useful in the first stages of the Snowmass study.
+`Snowmass 2021 Letters of Interest (LOI) <https://snowmass21.org/loi>`__ are informal documents intended to be useful in the first stages of the Snowmass study.
 They will help Snowmass conveners to prepare the Snowmass Community Planning Meeting that will take place early November 2020 virtually.
 LOIs could include opinions, interests and proposals that could further be studied.
 They should contain a maximum of 2 pages of text, plus relevant bibliography.
