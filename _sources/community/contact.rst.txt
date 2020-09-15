@@ -36,6 +36,7 @@ Current people in the list:
 * Guiliano Franchetti*
 * Alex Friedman
 * Cameron Geddes  
+* Spencer Gessner
 * David Grote 
 * Claire Hansel
 * Adi Hanuka
@@ -62,6 +63,7 @@ Current people in the list:
 * yves roblin 
 * Robert Ryne 
 * David Sagan
+* Alex Scheinker
 * Carl Schroeder
 * Luis Silva 
 * Kiran Sonnad  
