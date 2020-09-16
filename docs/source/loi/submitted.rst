@@ -17,8 +17,6 @@ Submitted
 ----------------------------------------
 - **Loss prediction through modeling of high dynamic range beam distributions** - `download pdf <https://www.snowmass21.org/docs/files/summaries/AF/SNOWMASS21-AF1_AF2_Kiersten_Ruisard-145.pdf>`__ - *Kiersten Ruisard, et al*.
 
-- **Surface Methods for Precision Accelerator Design and Virtual Prototyping of Accelerator Systems** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Robert_Ryne-071.pdf>`__ - *Robert Ryne, et al*.
-
 - **Electron Cooling Simulation Based on First Principles** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_HeZhang-073.pdf>`__ - *He Zhang, et al*.
 
 - **Interdisciplinary simulations: Integrating accelerator RF and particle-matter interaction codes** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Ao_Liu-090.pdf>`__ - *Ao Liu, et al*.
@@ -35,11 +33,11 @@ Submitted
 
 - **Modeling Needs for Structured Wakefield Accelerators** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Cook-110.pdf>`__ - *Nathan Cook, et al*.
 
-4. Community Development
-------------------------
-4.1 Community tools
-^^^^^^^^^^^^^^^^^^^
+4. Cross-cutting Simulation Tools
+---------------------------------
 - **A Parallel Poisson Solver Library for Accelerator Modeling Applications** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-050.pdf>`__ - *Ji Qiang, et al*.
+
+- **Surface Methods for Precision Accelerator Design and Virtual Prototyping of Accelerator Systems** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Robert_Ryne-071.pdf>`__ - *Robert Ryne, et al*.
 
 - **Beam Dynamics Toolkit** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Sagan-077.pdf>`__ - *David Sagan, et al*.
 
@@ -47,23 +45,23 @@ Submitted
 
 - **EVA (End-to-end Virtual Accelerators)** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF1_AF0_Vay-067.pdf>`__ - *Jean-Luc Vay, et al*.
 
-4.2 Community standards and practice
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+5. Standardization and Practice
+-------------------------------
 - **Develop/integrate data standards & start-to-end workflows for Accelerator Physics** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-AF1_AF0_Huebl-079.pdf>`__ - *Axel Huebl, et al*.
 
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-AF1_AF0_Huebl-081.pdf>`__ - *Axel Huebl, et al*.
 
 - **Embracing modern software tools and user-friendly practices, when distributing scientific codes** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Lehe-076.pdf>`__ - *Remi Lehe, et al*.
 
-4.3 Community organization
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+6. Community Organization
+---------------------------------
 - **Center(s) for accelerator and beam modeling** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF1_AF0_Vay-069.pdf>`__ - *Jean-Luc Vay, et al*.
 
 - **Consortium for PIC Software in Accelerator Science** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF6_AF1_tsung-082.pdf>`__ - *Warren Mori, et al*.
 
 - **Collaboration between industry and the HEP community** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CommF/SNOWMASS21-CommF1_CommF0-AF0_AF1_Bruhwiler-066.pdf>`__ - *David Bruhwiler, et al*.
 
-5. Quantum Computing
+7. Quantum Computing
 --------------------
 - **Getting Ready in Algorithm and Software Development for the Arrival of the Quantum Computing Age** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_HeZhang-072.pdf>`__ - *He Zhang, et al*.
 
