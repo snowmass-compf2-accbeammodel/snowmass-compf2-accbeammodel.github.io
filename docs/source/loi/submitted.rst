@@ -5,6 +5,7 @@ Submitted
 
 1. Machine Learning
 -------------------
+- **Machine Learning Meets the Challenges of HEP Research and Development** - `download pdf <https://www.snowmass21.org/docs/files/summaries/AF/SNOWMASS21-AF6_AF4-CompF3_CompF2_Brendan_OShea-165.pdf>`__ - *Brendan O'Shea, et al*.
 
 - **Machine learning and surrogate models for simulation-based optimization of accelerator design** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF3-AF1_AF6_Lehe-075.pdf>`__ - *Remi Lehe, et al*.
 
