@@ -61,6 +61,7 @@ Current people in the list:
 * Ji Qiang  
 * Daniel Ratner 
 * yves roblin 
+* Kiersten Ruisard
 * Robert Ryne 
 * David Sagan
 * Alex Scheinker
