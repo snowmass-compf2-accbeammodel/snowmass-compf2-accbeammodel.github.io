@@ -45,6 +45,8 @@ Submitted
 
 - **EVA (End-to-end Virtual Accelerators)** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF1_AF0_Vay-067.pdf>`__ - *Jean-Luc Vay, et al*.
 
+- **Accelerator and Beam Physics: Grand Challenges and Research Opportunities** `download pdf <https://www.snowmass21.org/docs/files/summaries/AF/SNOWMASS21-AF1_AF7_S_Nagaitsev-056.pdf>`__ - *Sergei Nagaitsev, et al*.
+
 5. Standardization and Practice
 -------------------------------
 - **Develop/integrate data standards & start-to-end workflows for Accelerator Physics** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-AF1_AF0_Huebl-079.pdf>`__ - *Axel Huebl, et al*.
