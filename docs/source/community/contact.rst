@@ -66,6 +66,7 @@ Current people in the list:
 * David Sagan
 * Alex Scheinker
 * Carl Schroeder
+* Brad Shadwick
 * Luis Silva 
 * Kiran Sonnad  
 * Eric G. Stern 
