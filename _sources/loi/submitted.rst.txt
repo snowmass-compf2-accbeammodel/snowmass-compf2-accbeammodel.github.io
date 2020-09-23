@@ -33,8 +33,8 @@ Submitted
 
 - **Modeling Needs for Structured Wakefield Accelerators** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Cook-110.pdf>`__ - *Nathan Cook, et al*.
 
-4. Cross-cutting Simulation Tools
----------------------------------
+4. Shared Accelerator & Beam Simulation Simulation Tools
+--------------------------------------------------------
 - **A Parallel Poisson Solver Library for Accelerator Modeling Applications** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-050.pdf>`__ - *Ji Qiang, et al*.
 
 - **Surface Methods for Precision Accelerator Design and Virtual Prototyping of Accelerator Systems** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Robert_Ryne-071.pdf>`__ - *Robert Ryne, et al*.
@@ -47,8 +47,8 @@ Submitted
 
 - **Accelerator and Beam Physics: Grand Challenges and Research Opportunities** `download pdf <https://www.snowmass21.org/docs/files/summaries/AF/SNOWMASS21-AF1_AF7_S_Nagaitsev-056.pdf>`__ - *Sergei Nagaitsev, et al*.
 
-5. Standardization and Practice
--------------------------------
+5. Cross-Cutting Standardization and Practice
+---------------------------------------------
 - **Develop/integrate data standards & start-to-end workflows for Accelerator Physics** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-AF1_AF0_Huebl-079.pdf>`__ - *Axel Huebl, et al*.
 
 - **Aspiration for Open Science in Accelerator & Beam Physics Modeling** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-AF1_AF0_Huebl-081.pdf>`__ - *Axel Huebl, et al*.
@@ -56,7 +56,7 @@ Submitted
 - **Embracing modern software tools and user-friendly practices, when distributing scientific codes** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Lehe-076.pdf>`__ - *Remi Lehe, et al*.
 
 6. Community Organization
----------------------------------
+-------------------------
 - **Center(s) for accelerator and beam modeling** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF1_AF0_Vay-069.pdf>`__ - *Jean-Luc Vay, et al*.
 
 - **Consortium for PIC Software in Accelerator Science** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-AF6_AF1_tsung-082.pdf>`__ - *Warren Mori, et al*.
