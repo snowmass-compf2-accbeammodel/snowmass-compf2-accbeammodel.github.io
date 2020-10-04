@@ -33,7 +33,7 @@ Submitted
 
 - **Modeling Needs for Structured Wakefield Accelerators** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Cook-110.pdf>`__ - *Nathan Cook, et al*.
 
-4. Shared Accelerator & Beam Simulation Simulation Tools
+4. Shared Accelerator & Beam Simulation Tools
 --------------------------------------------------------
 - **A Parallel Poisson Solver Library for Accelerator Modeling Applications** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-050.pdf>`__ - *Ji Qiang, et al*.
 
