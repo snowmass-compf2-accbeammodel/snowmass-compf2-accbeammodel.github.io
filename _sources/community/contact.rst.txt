@@ -31,6 +31,7 @@ Current people in the list:
 * Zhe Duan* 
 * Auralee Edelen*  
 * Jim Ellison* 
+* Claudio Emma
 * Eric Esarey* 
 * Ricardo Fonseca
 * Guiliano Franchetti*
