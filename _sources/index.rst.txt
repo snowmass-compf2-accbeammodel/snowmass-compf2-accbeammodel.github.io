@@ -71,6 +71,17 @@ Letters of Interest
    loi/proposed
    loi/submitted
 
+White papers
+------------
+.. toctree::
+   :caption: WHITE PAPERS
+   :maxdepth: 1
+   :hidden:
+
+   papers/contribute
+   papers/proposed
+   papers/submitted
+
 Community
 ---------
 .. toctree::
