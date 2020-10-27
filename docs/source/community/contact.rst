@@ -29,7 +29,7 @@ Current people in the list:
 * Alexander Debus
 * Blagoje Djordjevic
 * Zhe Duan* 
-* Auralee Edelen*  
+* Auralee Edelen  
 * Jim Ellison* 
 * Claudio Emma
 * Eric Esarey* 
@@ -49,9 +49,12 @@ Current people in the list:
 * Xiaobiao Huang 
 * Zhirong Huang 
 * Axel Huebl 
+* Rasmus Ischebeck* 
 * Andreas Kemp  
 * Harper Langston
+* Jarrod Leddy
 * Remi Lehe 
+* Zenghai Li
 * Ao Liu 
 * Steve Lund*  
 * Chris Mayes*
@@ -62,7 +65,8 @@ Current people in the list:
 * Greg Penn  
 * Ji Qiang  
 * Daniel Ratner 
-* yves roblin 
+* Yves roblin
+* Ryan Roussel 
 * Kiersten Ruisard
 * Robert Ryne 
 * David Sagan
@@ -75,10 +79,13 @@ Current people in the list:
 * Reed Teyber 
 * Maxence Thevenet
 * Alec Thomas
+* Frank Tsung
 * Jean-Luc Vay 
 * Jorge Vieira
 * Robert Warnock
 * Stephen Webb  
 * Scott Wilks*
-* Daniel Winklehner 
+* Daniel Winklehner
+* Liling Xiao 
 * He Zhang 
+* Ilya Zilberter
