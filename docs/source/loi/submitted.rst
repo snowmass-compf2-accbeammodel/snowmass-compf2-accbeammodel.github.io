@@ -37,6 +37,8 @@ Submitted
 --------------------------------------------------------
 - **A Parallel Poisson Solver Library for Accelerator Modeling Applications** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0-050.pdf>`__ - *Ji Qiang, et al*.
 
+- **Fast Multipole Method Approaches in Particle Accelerator Simulations** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF1_Harper_Langston-018.pdf>`__ - *Harper langston, et al*.
+
 - **Surface Methods for Precision Accelerator Design and Virtual Prototyping of Accelerator Systems** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Robert_Ryne-071.pdf>`__ - *Robert Ryne, et al*.
 
 - **Beam Dynamics Toolkit** - `download pdf <https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF0_Sagan-077.pdf>`__ - *David Sagan, et al*.
