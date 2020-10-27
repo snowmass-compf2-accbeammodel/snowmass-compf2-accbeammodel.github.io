@@ -50,6 +50,7 @@ Current people in the list:
 * Zhirong Huang 
 * Axel Huebl 
 * Andreas Kemp  
+* Harper Langston
 * Remi Lehe 
 * Ao Liu 
 * Steve Lund*  
