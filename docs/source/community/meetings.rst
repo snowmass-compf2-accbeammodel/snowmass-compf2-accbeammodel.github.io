@@ -11,6 +11,8 @@ Calendars
 
 `Calendar <https://calendar.google.com/calendar/embed?src=c_jak0i59t0n3njtorbg4hqrh0q0%40group.calendar.google.com&ctz=America%2FLos_Angeles>`__
 
+`Slides <https://drive.google.com/drive/folders/14VgtauqS9uUP_u6uO2skZkgmNsMR2awa?usp=sharing>`__
+
 Accelerator Frontier
 ^^^^^^^^^^^^^^^^^^^^
 
