@@ -82,6 +82,16 @@ White papers
    papers/proposed
    papers/submitted
 
+Meetings
+--------
+.. toctree::
+   :caption: MEETINGS
+   :maxdepth: 1
+   :hidden:
+
+   papers/calendars
+   papers/planning
+
 Community
 ---------
 .. toctree::
