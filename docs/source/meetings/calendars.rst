@@ -5,6 +5,10 @@ Calendars
 
 *Accelerator & beam physics modeling* interest group
 ----------------------------------------------------
+
+Currently, we meet every Wednesday at 1PM PST via Zoom.
+Please subscribe to our mailing list to receive further details.
+
 `Calendar <https://calendar.google.com/calendar/embed?src=c_jak0i59t0n3njtorbg4hqrh0q0%40group.calendar.google.com&ctz=America%2FLos_Angeles>`__
 
 `Slides <https://drive.google.com/drive/folders/14VgtauqS9uUP_u6uO2skZkgmNsMR2awa?usp=sharing>`__
@@ -22,6 +26,5 @@ Computational Frontier
 Topical Group: Theoretical Calculations and Simulation (CompF2)
 ---------------------------------------------------------------
 
-Currently, we meet every Wednesday at 1PM PST via Zoom.
-Please subscribe to our mailing list to receive further details.
+currently no separete meetings (part of CompF meetings)
 
