@@ -89,8 +89,8 @@ Meetings
    :maxdepth: 1
    :hidden:
 
-   papers/calendars
-   papers/planning
+   meetings/calendars
+   meetings/planning
 
 Community
 ---------
@@ -103,4 +103,3 @@ Community
    community/snowmass
    community/meetings
    community/coc
-
