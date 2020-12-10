@@ -82,6 +82,16 @@ White papers
    papers/proposed
    papers/submitted
 
+Meetings
+--------
+.. toctree::
+   :caption: MEETINGS
+   :maxdepth: 1
+   :hidden:
+
+   meetings/calendars
+   meetings/planning
+
 Community
 ---------
 .. toctree::
@@ -93,4 +103,3 @@ Community
    community/snowmass
    community/meetings
    community/coc
-
