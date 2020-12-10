@@ -101,5 +101,4 @@ Community
 
    community/contact
    community/snowmass
-   community/meetings
    community/coc
