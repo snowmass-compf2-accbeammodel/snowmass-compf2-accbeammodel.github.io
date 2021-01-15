@@ -13,7 +13,7 @@ Please note that a submitted paper alone does not mean that its content will nec
 
 Initial plan: The deadline for a contributed paper was announced for July 31, 2021.
 
-**Update Jan 2021: Due to a `pause of the Snowmass process <https://snowmass21.org/announcements>`__, a new deadline will be announced.**
+**Update Jan 2021:** Due to a `pause of the Snowmass process <https://snowmass21.org/announcements>`__, a new deadline will be announced.
 
 We maintain lists of :ref:`proposed <papers-proposed>` and :ref:`submitted <papers-submitted>` LOIs. 
 
