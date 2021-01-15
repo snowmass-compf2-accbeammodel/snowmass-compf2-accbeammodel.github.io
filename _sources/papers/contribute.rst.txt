@@ -15,7 +15,7 @@ Initial plan: The deadline for a contributed paper was announced for July 31, 20
 
 **Update Jan 2021:** Due to a `pause of the Snowmass process <https://snowmass21.org/announcements>`__, a new deadline will be announced.
 
-We maintain lists of :ref:`proposed <papers-proposed>` and :ref:`submitted <papers-submitted>` LOIs. 
+We maintain lists of :ref:`proposed <papers-proposed>` and :ref:`submitted <papers-submitted>` whitepapers. 
 
 .. note::
 
