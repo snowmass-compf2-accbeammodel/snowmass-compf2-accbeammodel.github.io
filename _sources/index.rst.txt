@@ -34,6 +34,10 @@ We hope you will attend.
 Please join us in planning the future of high energy physics, in the broadest sense.
 Also note that although this planning exercise is organized for the US, high energy physics is an international activity and we strongly encourage physicists based outside of the US to participate.
 
+.. note::
+
+   January 2021: Please read the `new timeline of the Snowmass process <https://snowmass21.org/announcements>`__.
+
 .. only:: html
 
    `Download this whole homepage also as a PDF document here <_static/SM2021_COMPF2_AccBeamModel.pdf>`_.
@@ -46,6 +50,8 @@ Also note that although this planning exercise is organized for the US, high ene
     */
    div#introduction.section,
    div#letters-of-interest.section,
+   div#white-papers.section,
+   div#meetings.section,
    div#community.section {
        display:none;
    }

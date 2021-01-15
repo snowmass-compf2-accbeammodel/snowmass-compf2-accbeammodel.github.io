@@ -11,8 +11,9 @@ Starting them with an executive summary is recommended (`more details here <http
 Further coordinating details will be developed in the Snowmass process over the upcoming months.
 Please note that a submitted paper alone does not mean that its content will necessarily be part of the final Snowmass report.
 
-**The deadline for a contributed paper is July 31, 2021**.
+Initial plan: The deadline for a contributed paper was announced for July 31, 2021.
 
+**Update Jan 2021: Due to a `pause of the Snowmass process <https://snowmass21.org/announcements>`__, a new deadline will be announced.**
 
 We maintain lists of :ref:`proposed <papers-proposed>` and :ref:`submitted <papers-submitted>` LOIs. 
 
