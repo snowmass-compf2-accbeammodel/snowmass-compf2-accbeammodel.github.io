@@ -6,6 +6,11 @@ Calendars
 *Accelerator & beam physics modeling* interest group
 ----------------------------------------------------
 
+.. note::
+
+   January 2021: Please read the `new timeline of the Snowmass process <https://snowmass21.org/announcements>`__.
+   Our weekly meetings are currently paused.
+
 Currently, we meet every Wednesday at 1PM PST via Zoom.
 Please subscribe to our mailing list to receive further details.
 
