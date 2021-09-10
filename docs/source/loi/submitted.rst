@@ -71,3 +71,14 @@ Submitted
 
 
 We rely on the community (you) to inform us about proposed and submitted LOIs by sending emails to AccBeamModelSnowmass21@lbl.gov.
+
+
+.. _loi-related-papers:
+
+Related Peer Reviewed Publications
+==================================
+
+In September 2021, a subset of the above topics where published in two peer reviewed articles in the Journal of Instrumentation (JINST):
+
+- *Simulations of Future Particle Accelerators: Issues and Mitigations* - DOI/arXiv pending - *David Sagan, et al*, accepted in JINST, ICFA Beam Dynamics Newletters #82: *Advanced Accelerator Modeling*, 2021
+- *Modeling of Advanced Accelerator Concepts* - DOI/arXiv pending - *Jean-Luc Vay, et al*, under review in JINST, ICFA Beam Dynamics Newletters #82: *Advanced Accelerator Modeling*, 2021
