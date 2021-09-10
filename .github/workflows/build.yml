@@ -7,13 +7,13 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     # PDF
-    - uses: ammaraskar/sphinx-action@master
+    - uses: ax3l/sphinx-action@newer-sphinx
       with:
         docs-folder: "docs/"
         pre-build-command: "apt-get update -y && apt-get install -y $(cat docs/ubuntu-package.list) && python -m pip install -r docs/requirements.txt"
         build-command: "make latexpdf"
     # HTML
-    - uses: ammaraskar/sphinx-action@master
+    - uses: ax3l/sphinx-action@newer-sphinx
       with:
         docs-folder: "docs/"
 
