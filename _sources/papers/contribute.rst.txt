@@ -15,6 +15,9 @@ Initial plan: The deadline for a contributed paper was announced for July 31, 20
 
 **Update Jan 2021:** Due to a `pause of the Snowmass process <https://snowmass21.org/announcements>`__, a new deadline will be announced.
 
+**Update August 2021:** Snowmass is restarting!
+Sign up for the Sep 24th event, `Snowmass Day <https://indico.fnal.gov/event/50538/>`__.
+
 We maintain lists of :ref:`proposed <papers-proposed>` and :ref:`submitted <papers-submitted>` whitepapers. 
 
 .. note::
