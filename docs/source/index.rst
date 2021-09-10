@@ -36,7 +36,8 @@ Also note that although this planning exercise is organized for the US, high ene
 
 .. note::
 
-   January 2021: Please read the `new timeline of the Snowmass process <https://snowmass21.org/announcements>`__.
+   January-August 2021: There was a pandemic-related, temporary pause of the Snowmass process.
+   Please read the `new timeline of the Snowmass process <https://snowmass21.org/announcements>`__.
 
 .. only:: html
 
