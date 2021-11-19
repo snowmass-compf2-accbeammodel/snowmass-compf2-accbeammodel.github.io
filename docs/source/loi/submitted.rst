@@ -80,5 +80,5 @@ Related Peer Reviewed Publications
 
 In September 2021, a subset of the above topics where published in two peer reviewed articles in the Journal of Instrumentation (JINST):
 
-- *Simulations of Future Particle Accelerators: Issues and Mitigations* - DOI/arXiv pending - *David Sagan, et al*, accepted in JINST, ICFA Beam Dynamics Newletters #82: *Advanced Accelerator Modeling*, 2021
-- *Modeling of Advanced Accelerator Concepts* - DOI/arXiv pending - *Jean-Luc Vay, et al*, under review in JINST, ICFA Beam Dynamics Newletters #82: *Advanced Accelerator Modeling*, 2021
+- *Simulations of Future Particle Accelerators: Issues and Mitigations* - `arXiv:2108.11027 <https://arxiv.org/abs/2108.11027>`_ / `DOI:10.1088/1748-0221/16/10/T10002 <https://doi.org/10.1088/1748-0221/16/10/T10002>`_ - *David Sagan, et al*, accepted in JINST, ICFA Beam Dynamics Newletters #82: *Advanced Accelerator Modeling*, 2021
+- *Modeling of Advanced Accelerator Concepts* - `arXiv:2109.05133 <https://arxiv.org/abs/2109.05133>`_ / `DOI:10.1088/1748-0221/16/10/T10003 <https://doi.org/10.1088/1748-0221/16/10/T10003>`_ - *Jean-Luc Vay, et al*, under review in JINST, ICFA Beam Dynamics Newletters #82: *Advanced Accelerator Modeling*, 2021
