@@ -18,7 +18,10 @@ Initial plan: The deadline for a contributed paper was announced for July 31, 20
 **Update August 2021:** Snowmass is restarting!
 Sign up for the Sep 24th event, `Snowmass Day <https://indico.fnal.gov/event/50538/>`__.
 
-We maintain lists of :ref:`proposed <papers-proposed>` and :ref:`submitted <papers-submitted>` whitepapers. 
+We maintain lists of :ref:`proposed <papers-proposed>` and :ref:`submitted <papers-submitted>` whitepapers.
+
+**Update October 2021:** In our :ref:`regular meetings <meetings-calendars>`, we converged on writing primarily a collaborative, common whitepaper for our interest group.
+Please contact our mailing list and/or attend or meetings to gain access to the `Overleaf project <https://www.overleaf.com/project/616f379ce4ffb218bca071c9>`__ to contribute to the writing or support the whitepaper.
 
 .. note::
 
