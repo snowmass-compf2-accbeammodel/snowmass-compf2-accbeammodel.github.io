@@ -5,6 +5,8 @@ Mailing list
 
 If you want to be included, removed or suggest additional names, please send an e-mail to AccBeamModelSnowmass21@lbl.gov.
 
+The mailing list is organized via `Google Groups <https://groups.google.com/a/lbl.gov/g/AccBeamModelSnowmass21>`__.
+
 Current people in the list:
 ---------------------------
 (* indicates individuals who have been invited to the mailing list but have yet to accept)
@@ -89,3 +91,4 @@ Current people in the list:
 * Liling Xiao 
 * He Zhang 
 * Ilya Zilberter
+* Nikita Kuklev
