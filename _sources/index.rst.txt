@@ -27,17 +27,25 @@ The work within this frontier is organized into **seven topical groups**:
 Each `topical group <https://snowmass21.org/computational/start>`_ has an overarching :ref:`mailing list and slack channel <community-snowmass>`.
 The interest group herein is part of topical group **CompF2** and we invite you to :ref:`join our *Accelerator & beam physics modeling* mailing list <community-contact>`.
 
-On **August 10-11, 2020**, we are pleased to invite the community to our virtual kick-off Computational Frontier meeting (`indico link <https://indico.fnal.gov/event/43829/>`_).
-At the meeting, each topical group will present its charge and plans for gathering input from the community.
-We hope you will attend.
-
 Please join us in planning the future of high energy physics, in the broadest sense.
 Also note that although this planning exercise is organized for the US, high energy physics is an international activity and we strongly encourage physicists based outside of the US to participate.
 
 .. note::
 
+   On **July 17-26, 2022**, we meet in a hybrid format at the `Snowmass Community Summer Study (CSS) Workshop <http://seattlesnowmass2021.net>`__.
+   At the meeting, we solicit and discuss our whitepaper, the draft of the CompF2, and CompF report.
+   Please see the `indico link <https://indico.fnal.gov/event/22303/>`__ for detailed time tables, zoom links and uploaded materials.
+   We hope you are able to join!
+
+.. note::
+
    January-August 2021: There was a pandemic-related, temporary pause of the Snowmass process.
    Please read the `new timeline of the Snowmass process <https://snowmass21.org/announcements>`__.
+
+.. note::
+
+   On **August 10-11, 2020**, we were pleased to invite the community to our virtual kick-off Computational Frontier meeting (`indico link <https://indico.fnal.gov/event/43829/>`_).
+   At the meeting, each topical group presented its charge and plans for gathering input from the community.
 
 .. only:: html
 
@@ -98,6 +106,7 @@ Meetings
 
    meetings/calendars
    meetings/planning
+   meetings/summerstudy
 
 Community
 ---------
